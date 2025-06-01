@@ -19,7 +19,7 @@ const CONFIG = {
   host: process.env.HOST || '0.0.0.0',
   environment: process.env.NODE_ENV || 'development',
   cors: {
-    origin: process.env.CORS_ORIGIN ? process.env.CORS_ORIGIN.split(',') : '*',
+    origin: process.env.CORS_ORIGIN || '*',
     credentials: true
   },
   peerjs: {
