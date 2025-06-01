@@ -16,7 +16,8 @@ app.get('/health', (req, res) => {
     service: 'signaling-server',
     status: 'healthy',
     timestamp: new Date().toISOString(),
-    uptime: process.uptime()
+    uptime: process.uptime(),
+    port: PORT
   });
 });
 
@@ -25,12 +26,50 @@ app.get('/', (req, res) => {
   res.json({
     service: 'signaling-server',
     version: '1.0.0',
-    message: 'Signaling Server is running'
+    message: 'Signaling Server is running',
+    port: PORT
+  });
+});
+
+// Error handling middleware
+app.use((err, req, res, next) => {
+  console.error('Error:', err);
+  res.status(500).json({
+    error: 'Internal Server Error',
+    message: err.message
   });
 });
 
 // Start server
-app.listen(PORT, () => {
+const server = app.listen(PORT, () => {
   console.log(`🚀 Signaling Server running on port ${PORT}`);
   console.log(`📊 Health check: http://localhost:${PORT}/health`);
+});
+
+// Graceful shutdown handling
+process.on('SIGTERM', () => {
+  console.log('🛑 SIGTERM received, shutting down gracefully...');
+  server.close(() => {
+    console.log('✅ Server closed successfully');
+    process.exit(0);
+  });
+});
+
+process.on('SIGINT', () => {
+  console.log('🛑 SIGINT received, shutting down gracefully...');
+  server.close(() => {
+    console.log('✅ Server closed successfully');
+    process.exit(0);
+  });
+});
+
+// Handle uncaught exceptions
+process.on('uncaughtException', (err) => {
+  console.error('💥 Uncaught Exception:', err);
+  process.exit(1);
+});
+
+process.on('unhandledRejection', (reason, promise) => {
+  console.error('💥 Unhandled Rejection at:', promise, 'reason:', reason);
+  process.exit(1);
 }); 
