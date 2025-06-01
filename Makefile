@@ -60,16 +60,12 @@ build-all: build-peer build-signaling
 # Deployment targets
 deploy-peer:
 	@echo "☁️  Deploying peer server to Caprover..."
-	@cp captain-definition-peer captain-definition
 	@caprover deploy -a peer-server
-	@rm captain-definition
 	@echo "✅ Peer server deployed successfully!"
 
 deploy-signaling:
 	@echo "☁️  Deploying signaling server to Caprover..."
-	@cp captain-definition-signaling captain-definition
 	@caprover deploy -a signaling-server
-	@rm captain-definition
 	@echo "✅ Signaling server deployed successfully!"
 
 deploy-all: deploy-peer deploy-signaling
