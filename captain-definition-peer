@@ -1,5 +1,0 @@
-{
-  "schemaVersion": 2,
-  "dockerfilePath": "./services/peer-server/Dockerfile",
-  "dockerfileContext": "./services/peer-server"
-} 
