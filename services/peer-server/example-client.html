@@ -106,17 +106,23 @@
 
         // Initialize PeerJS connection
         function initializePeer() {
-            // Connect to your production server
+            // IMPORTANT: Your deployed server is using the basic configuration with default key
+            const PEERJS_KEY = 'Bkiv2sHChaglEQOr50OjlOFMEE8ObzW2URwpC00iWsY'; // Must match your deployed server's key
+            
+            // Connect to your deployed server (currently running basic version)
             peer = new Peer({
-                host: 'peer-server.tigasdev.com', // Change to your domain in production
-                port: 9000,        // Change to 443 for HTTPS
+                host: 'peer-server.tigasdev.com',
+                port: 80,          // HTTP port 80 (standard web port)
                 path: '/',
+                secure: false,     // HTTP only (not HTTPS)
                 debug: 2,          // Enable debug logs
-                secure: false,      // Set to true for HTTPS
-                key: 'Bkiv2sHChaglEQOr50OjlOFMEE8ObzW2URwpC00iWsY'
+                key: PEERJS_KEY    // Must match deployed server's key
             });
 
+            console.log('Connecting to deployed server with key:', PEERJS_KEY)
+
             peer.on('open', function(id) {
+                console.log('open', id)
                 document.getElementById('peerId').textContent = id;
                 updateStatus('Connected to server! Your ID: ' + id, 'success');
                 addMessage('System', 'Connected to PeerJS server with ID: ' + id);
@@ -227,7 +233,7 @@
         }
 
         function checkServerHealth() {
-            fetch('http://localhost:9000/health')
+            fetch('http://peer-server.tigasdev.com/health')
                 .then(response => response.json())
                 .then(data => {
                     document.getElementById('serverInfo').innerHTML = 
@@ -239,11 +245,12 @@
         }
 
         function getServerStatus() {
-            fetch('http://localhost:9000/status')
+            // Note: The deployed server doesn't have /status endpoint
+            fetch('http://peer-server.tigasdev.com/')
                 .then(response => response.json())
                 .then(data => {
                     document.getElementById('serverInfo').innerHTML = 
-                        '<h4>Server Status</h4><pre>' + JSON.stringify(data, null, 2) + '</pre>';
+                        '<h4>Server Info</h4><pre>' + JSON.stringify(data, null, 2) + '</pre>';
                 })
                 .catch(err => {
                     updateStatus('Error getting status: ' + err.message, 'error');
