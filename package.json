@@ -1,0 +1,20 @@
+{
+  "name": "tigasdevbackend",
+  "version": "1.0.0",
+  "description": "Monorepo for Node.js backends - peer-server and signaling-server",
+  "private": true,
+  "workspaces": [
+    "services/*"
+  ],
+  "scripts": {
+    "install:all": "npm install",
+    "start:peer": "npm start --workspace=peer-server",
+    "start:signaling": "npm start --workspace=signaling-server",
+    "dev:peer": "npm run dev --workspace=peer-server",
+    "dev:signaling": "npm run dev --workspace=signaling-server"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
+} 

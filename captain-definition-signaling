@@ -1,0 +1,5 @@
+{
+  "schemaVersion": 2,
+  "dockerfilePath": "./services/signaling-server/Dockerfile",
+  "dockerfileContext": "./services/signaling-server"
+} 
