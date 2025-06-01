@@ -324,14 +324,31 @@ Force disconnect a peer:
 curl -X DELETE http://localhost:9000/admin/connections/peer-id-here
 ```
 
-## Security Considerations
+## Security
 
-1. **Always use HTTPS** in production
-2. **Set specific CORS origins** instead of wildcard
-3. **Configure rate limits** based on your use case
-4. **Monitor connection patterns** for abuse
-5. **Keep dependencies updated**
-6. **Use environment variables** for sensitive config
+This server implements comprehensive security measures for production use. For detailed security information, see:
+
+- **[Security Documentation](docs/SECURITY.md)** - Comprehensive security guide covering container security, application security, monitoring, and best practices
+- **[Deployment Security Guide](docs/DEPLOYMENT.md)** - Secure deployment practices for Caprover and production environments
+
+### Quick Security Overview
+
+- **Non-root container execution** for reduced attack surface
+- **Rate limiting and DDoS protection** to prevent abuse
+- **Security headers** via Helmet (XSS, CSRF protection)
+- **Structured logging** with security event tracking
+- **Connection monitoring** with admin management endpoints
+- **Environment-based configuration** for secure secrets management
+
+### Security Features
+
+- 🔐 Non-root Docker user execution
+- 🛡️ Rate limiting (configurable per IP)
+- 🚫 Request slowdown for abuse prevention
+- 📊 Real-time connection monitoring
+- 🔍 Structured security logging
+- ⚡ Graceful shutdown handling
+- 🌐 CORS and SSL/TLS configuration
 
 ## Scaling
 

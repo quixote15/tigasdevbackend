@@ -286,3 +286,186 @@ docker logs <container-name>
 ## License
 
 [Your License Here]
+
+# PeerJS Signaling Server (Production-Ready)
+
+A production-level PeerJS signaling server with comprehensive monitoring, debugging capabilities, and scalability features.
+
+## Features
+
+### 🚀 Production-Ready
+- **Express.js** with security middleware (Helmet)
+- **Compression** for improved performance
+- **Rate limiting** and DDoS protection
+- **CORS** configuration
+- **Graceful shutdown** handling
+- **SSL/TLS** support
+
+### 📊 Monitoring & Observability
+- **Prometheus metrics** integration
+- **Winston logging** with daily rotation
+- **Health check** endpoints
+- **Connection tracking** and statistics
+- **System resource monitoring**
+- **Request/response monitoring**
+
+### 🔧 Advanced Configuration
+- **Environment-based** configuration
+- **Custom PeerJS** settings
+- **Flexible CORS** policies
+- **SSL certificate** support
+- **Proxy support** for cloud deployments
+
+### 🛡️ Security Features
+- **Rate limiting** (per IP)
+- **Request slowdown** for abuse prevention
+- **Security headers** via Helmet
+- **Input validation**
+- **Error handling** and logging
+- **Secure key generation** with multiple methods
+
+### 👥 Connection Management
+- **Real-time connection tracking**
+- **Admin endpoints** for connection management
+- **Connection statistics**
+- **Peer discovery** controls
+- **Concurrent connection limits**
+
+## Quick Start
+
+### Installation
+
+```bash
+cd services/peer-server
+npm install
+```
+
+### Development
+
+```bash
+npm run dev
+```
+
+### Production
+
+```bash
+npm start
+```
+
+## 🔐 Secure Key Generation
+
+Generate cryptographically secure PEERJS_KEY values using our built-in Makefile:
+
+```bash
+# Generate recommended OpenSSL URL-Safe Base64 key
+make key1
+
+# Generate Node.js crypto key  
+make key2
+
+# Generate UUID + entropy key
+make key3
+
+# Show all methods
+make all
+```
+
+**Example output:**
+```bash
+🎯 Method 1: OpenSSL URL-Safe Base64
+PEERJS_KEY=zPbDQJrtvZWPA8ntA5oAjjLyhU1uDhgJnb8WIP7M1EU
+```
+
+Copy the generated `PEERJS_KEY=...` line to your `.env` file.
+
+## Configuration
+
+Create a `.env` file based on `.env.example`:
+
+```bash
+cp .env.example .env
+```
+
+### Key Configuration Options
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `PORT` | 9000 | Server port |
+| `NODE_ENV` | development | Environment mode |
+| `CORS_ORIGIN` | * | Allowed CORS origins (comma-separated) |
+| `PEERJS_PATH` | / | PeerJS endpoint path |
+| `PEERJS_KEY` | peerjs | **MUST BE CHANGED IN PRODUCTION** |
+| `CONCURRENT_LIMIT` | 5000 | Max concurrent connections |
+| `MONITORING_ENABLED` | true | Enable Prometheus metrics |
+| `LOG_LEVEL` | info | Logging level |
+
+⚠️ **SECURITY WARNING**: Never use the default `PEERJS_KEY=peerjs` in production! Generate a secure key using `make key1`.
+
+## API Endpoints
+
+### Health & Status
+
+- **GET `/health`** - Health check with system metrics
+- **GET `/status`** - Detailed server status
+- **GET `/`** - Server information and endpoints
+
+### Monitoring
+
+- **GET `/metrics`** - Prometheus metrics (if enabled)
+
+### Admin (Management)
+
+- **GET `/admin/connections`** - List all active connections
+- **DELETE `/admin/connections/:peerId`** - Disconnect specific peer
+
+### PeerJS
+
+- **WebSocket `/`** - PeerJS signaling endpoint
+
+## Security
+
+This server implements comprehensive security measures for production use. For detailed security information, see:
+
+- **[Security Documentation](docs/SECURITY.md)** - Comprehensive security guide covering container security, application security, monitoring, and best practices
+- **[Deployment Security Guide](docs/DEPLOYMENT.md)** - Secure deployment practices for Caprover and production environments
+- **[PeerJS Key Security](docs/PEERJS-KEY-SECURITY.md)** - Complete guide to secure key generation and why OpenSSL is the best choice
+
+### Quick Security Overview
+
+- **Non-root container execution** for reduced attack surface
+- **Rate limiting and DDoS protection** to prevent abuse
+- **Security headers** via Helmet (XSS, CSRF protection)
+- **Structured logging** with security event tracking
+- **Connection monitoring** with admin management endpoints
+- **Environment-based configuration** for secure secrets management
+- **Cryptographically secure key generation** with multiple methods
+
+### Security Features
+
+- 🔐 Non-root Docker user execution
+- 🛡️ Rate limiting (configurable per IP)
+- 🚫 Request slowdown for abuse prevention
+- 📊 Real-time connection monitoring
+- 🔍 Structured security logging
+- ⚡ Graceful shutdown handling
+- 🌐 CORS and SSL/TLS configuration
+- 🔑 Secure PEERJS_KEY generation (OpenSSL, Node.js crypto, UUID)
+
+### 🔐 PEERJS_KEY Security
+
+The `PEERJS_KEY` is critical for server security. Use our Makefile to generate secure keys:
+
+| Method | Command | Security Level | Recommended Use |
+|--------|---------|----------------|-----------------|
+| **OpenSSL** | `make key1` | ⭐⭐⭐⭐⭐ | **Production** |
+| **Node.js** | `make key2` | ⭐⭐⭐⭐⭐ | Development/CI |
+| **UUID+Entropy** | `make key3` | ⭐⭐⭐⭐ | Debugging |
+
+**Why OpenSSL is best:**
+- 256-bit entropy from CSPRNG
+- URL-safe character set
+- No external dependencies
+- FIPS 140-2 compliant
+- Universal availability
+
+See [PeerJS Key Security Documentation](docs/PEERJS-KEY-SECURITY.md) for complete details.

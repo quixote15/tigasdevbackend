@@ -108,11 +108,12 @@
         function initializePeer() {
             // Connect to your production server
             peer = new Peer({
-                host: 'localhost', // Change to your domain in production
+                host: 'peer-server.tigasdev.com', // Change to your domain in production
                 port: 9000,        // Change to 443 for HTTPS
                 path: '/',
                 debug: 2,          // Enable debug logs
-                secure: false      // Set to true for HTTPS
+                secure: false,      // Set to true for HTTPS
+                key: 'Bkiv2sHChaglEQOr50OjlOFMEE8ObzW2URwpC00iWsY'
             });
 
             peer.on('open', function(id) {
