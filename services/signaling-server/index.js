@@ -14,7 +14,7 @@ const server = http.createServer(app);
 // Setup Socket.IO with CORS configuration
 const io = new Server(server, {
     cors: {
-        origin: ["https://tigasdev.com"],
+        origin: ["https://tigasdev.com", '*'],
         methods: ["GET", "POST"],
         credentials: false
     },
