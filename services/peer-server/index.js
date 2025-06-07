@@ -28,6 +28,7 @@ const CONFIG = {
     allow_discovery: process.env.ALLOW_DISCOVERY === 'true',
     concurrent_limit: parseInt(process.env.CONCURRENT_LIMIT) || 5000,
     cleanup_outmsg: parseInt(process.env.CLEANUP_OUTMSG) || 1000,
+    expire_timeout: parseInt(process.env.EXPIRE_TIMEOUT) || 60000,
     cleanup_out_trans: parseInt(process.env.CLEANUP_OUT_TRANS) || 5000,
     cleanup_expire: parseInt(process.env.CLEANUP_EXPIRE) || 5000,
     alive_timeout: parseInt(process.env.ALIVE_TIMEOUT) || 60000,
