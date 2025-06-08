@@ -70,6 +70,8 @@ app.get('/', (req, res) => {
         features: [
             'Socket.IO room management',
             'WebRTC signaling',
+            'Group chat functionality',
+            'Typing indicators',
             'Connection tracking',
             'Room statistics',
             'Health monitoring'
@@ -267,6 +269,59 @@ io.on('connection', (socket) => {
         console.log(`📊 Active connections: ${stats.activeConnections}`);
     });
 
+    // Handle chat messages
+    socket.on('send-message', (data) => {
+        const connection = connections.get(socket.id);
+        const roomId = connection?.currentRoom;
+        const userId = connection?.userId;
+
+        if (!roomId || !userId) {
+            socket.emit('error', { message: 'Must be in a room to send messages' });
+            return;
+        }
+
+        if (!data.message || typeof data.message !== 'string' || data.message.trim().length === 0) {
+            socket.emit('error', { message: 'Message cannot be empty' });
+            return;
+        }
+
+        const message = {
+            id: generateMessageId(),
+            userId: userId,
+            message: data.message.trim(),
+            timestamp: new Date().toISOString(),
+            roomId: roomId
+        };
+
+        // Broadcast message to all users in the room (including sender)
+        io.to(roomId).emit('new-message', message);
+
+        console.log(`💬 Message from ${userId} in room ${roomId}: ${message.message.substring(0, 50)}${message.message.length > 50 ? '...' : ''}`);
+    });
+
+    // Handle typing indicators
+    socket.on('typing-start', () => {
+        const connection = connections.get(socket.id);
+        const roomId = connection?.currentRoom;
+        const userId = connection?.userId;
+
+        if (roomId && userId) {
+            socket.to(roomId).emit('user-typing', { userId, isTyping: true });
+        }
+    });
+
+    socket.on('typing-stop', () => {
+        const connection = connections.get(socket.id);
+        const roomId = connection?.currentRoom;
+        const userId = connection?.userId;
+
+        if (roomId && userId) {
+            socket.to(roomId).emit('user-typing', { userId, isTyping: false });
+        }
+    });
+
+
+
     // Handle custom events
     socket.on('ping', () => {
         socket.emit('pong', { timestamp: Date.now() });
@@ -313,6 +368,11 @@ function removeUserFromRoom(roomId, socketId) {
         stats.activeRooms--;
         console.log(`🗑️ Empty room ${roomId} removed`);
     }
+}
+
+// Message management functions
+function generateMessageId() {
+    return 'msg_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9);
 }
 
 // Utility functions
