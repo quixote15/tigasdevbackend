@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PeerJS Connection Test</title>
+    <script src="https://unpkg.com/peerjs@1.5.4/dist/peerjs.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        .status { padding: 10px; margin: 10px 0; border-radius: 4px; }
+        .success { background: #d4edda; color: #155724; }
+        .error { background: #f8d7da; color: #721c24; }
+        .info { background: #d1ecf1; color: #0c5460; }
+    </style>
+</head>
+<body>
+    <h2>🧪 PeerJS Connection Test</h2>
+    <div id="status" class="status info">Testing connection...</div>
+    <div id="details"></div>
+    
+    <script>
+        console.log('=== PeerJS Connection Test ===');
+        
+        // Test different configurations
+        const configs = [
+            {
+                name: 'Default key + HTTP',
+                config: {
+                    host: 'peer-server.tigasdev.com',
+                    port: 80,
+                    path: '/',
+                    secure: false,
+                    debug: 3,
+                    key: 'peerjs'
+                }
+            },
+            {
+                name: 'Custom key + HTTP',
+                config: {
+                    host: 'peer-server.tigasdev.com',
+                    port: 80,
+                    path: '/',
+                    secure: false,
+                    debug: 3,
+                    key: 'Bkiv2sHChaglEQOr50OjlOFMEE8ObzW2URwpC00iWsY'
+                }
+            }
+        ];
+        
+        let currentTest = 0;
+        
+        function testConnection(config) {
+            return new Promise((resolve) => {
+                console.log(`Testing: ${config.name}`, config.config);
+                
+                const peer = new Peer(config.config);
+                const timeout = setTimeout(() => {
+                    peer.destroy();
+                    resolve({ success: false, error: 'Timeout' });
+                }, 10000);
+                
+                peer.on('open', (id) => {
+                    clearTimeout(timeout);
+                    console.log(`✅ ${config.name} - Connected with ID: ${id}`);
+                    peer.destroy();
+                    resolve({ success: true, id });
+                });
+                
+                peer.on('error', (err) => {
+                    clearTimeout(timeout);
+                    console.log(`❌ ${config.name} - Error:`, err);
+                    peer.destroy();
+                    resolve({ success: false, error: err.message });
+                });
+            });
+        }
+        
+        async function runTests() {
+            const statusDiv = document.getElementById('status');
+            const detailsDiv = document.getElementById('details');
+            
+            for (const config of configs) {
+                statusDiv.textContent = `Testing: ${config.name}...`;
+                statusDiv.className = 'status info';
+                
+                const result = await testConnection(config);
+                
+                const resultDiv = document.createElement('div');
+                resultDiv.className = `status ${result.success ? 'success' : 'error'}`;
+                
+                if (result.success) {
+                    resultDiv.textContent = `✅ ${config.name}: Connected successfully! (ID: ${result.id})`;
+                    statusDiv.textContent = `Found working configuration: ${config.name}`;
+                    statusDiv.className = 'status success';
+                } else {
+                    resultDiv.textContent = `❌ ${config.name}: Failed - ${result.error}`;
+                }
+                
+                detailsDiv.appendChild(resultDiv);
+                
+                if (result.success) {
+                    // Found working config, stop testing
+                    const codeDiv = document.createElement('div');
+                    codeDiv.innerHTML = `
+                        <h3>✅ Working Configuration:</h3>
+                        <pre style="background: #f8f9fa; padding: 15px; border-radius: 4px;">
+const peer = new Peer({
+    host: '${config.config.host}',
+    port: ${config.config.port},
+    path: '${config.config.path}',
+    secure: ${config.config.secure},
+    key: '${config.config.key}'
+});
+                        </pre>
+                    `;
+                    detailsDiv.appendChild(codeDiv);
+                    break;
+                }
+            }
+            
+            if (!document.querySelector('.success')) {
+                statusDiv.textContent = 'All tests failed - check server configuration';
+                statusDiv.className = 'status error';
+            }
+        }
+        
+        // Start tests when page loads
+        runTests();
+    </script>
+</body>
+</html> 

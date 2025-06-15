@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PeerJS Connection Test</title>
+    <script src="https://unpkg.com/peerjs@1.5.4/dist/peerjs.min.js"></script>
+</head>
+<body>
+    <h3>PeerJS Connection Test</h3>
+    <div id="status">Connecting...</div>
+    <div id="peerId">Peer ID: Not connected</div>
+    
+    <script>
+        // Test with default key first
+        
+        console.log('Attempting to connect with key:', PEERJS_KEY);
+        
+        const PEERJS_KEY = 'Bkiv2sHChaglEQOr50OjlOFMEE8ObzW2URwpC00iWsY'; // Must match your deployed server's key
+        const peer = new Peer({
+            host: 'peer-server.tigasdev.com',
+            port: 443,
+            path: '/',
+            secure: true,
+            debug: 3,  // Maximum debug
+            key: PEERJS_KEY
+        });
+        
+        peer.on('open', (id) => {
+            document.getElementById('status').textContent = '✅ Connected successfully!';
+            document.getElementById('peerId').textContent = 'Peer ID: ' + id;
+            console.log('✅ Connected with ID:', id);
+        });
+        
+        peer.on('error', (err) => {
+            document.getElementById('status').textContent = '❌ Connection failed: ' + err.message;
+            console.error('❌ PeerJS error:', err);
+            
+            // If authentication fails, try different approach
+            if (err.message.includes('404')) {
+                console.log('💡 404 error suggests wrong key or server configuration');
+                console.log('Try checking your server\'s PEERJS_KEY configuration');
+            }
+        });
+        
+        peer.on('disconnected', () => {
+            document.getElementById('status').textContent = '🔄 Disconnected, attempting reconnect...';
+            console.log('🔄 Disconnected from server');
+        });
+    </script>
+</body>
+</html> 
