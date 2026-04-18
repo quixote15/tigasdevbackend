@@ -1,0 +1,26 @@
+/* Reset global — tudo controlado pelo canvas do Phaser */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #0a0a0a;
+}
+
+/* Canvas do Phaser — centrado.
+ * image-rendering removido: o Phaser renderiza em alta resolucao (960x540) e
+ * o CSS escala proporcionalmente, mantendo texto e imagens nitidos.
+ * Quando sprites pixel art reais forem integrados, reavaliar per-sprite via
+ * texture filter (Phaser.Textures.FilterMode.NEAREST). */
+canvas {
+  display: block;
+}

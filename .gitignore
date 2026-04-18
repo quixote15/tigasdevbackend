@@ -76,6 +76,7 @@ dist
 # Gatsby files
 .cache/
 public
+!ai/ideas/zombie-game-brasilia/app/apps/web/public/
 
 # Storybook build outputs
 .out
