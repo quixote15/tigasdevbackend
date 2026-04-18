@@ -1,33 +1,59 @@
-# ZUMBIS DE BRASILIA -- STORYTELLING: DOIS MODOS DE JOGO
+# ZUMBIS DE BRASILIA -- STORYTELLING v2: A CRONICA ZUMBI DO BRASIL REAL
 ### Andre Guedes -- Diretor Criativo | Abril 2026
 
 ---
 
-> *"Desde o primeiro episodio de Zumbis de Brasilia eu sabia que tinha dois lados da moeda. Tem o cidadao que leva porrada de tudo que e lado e sobrevive na garra. E tem o politico que e o MOTIVO de tudo estar pegando fogo. Agora o jogador escolhe: voce quer sobreviver ao sistema... ou SER o sistema?"*
+> *"A versao anterior era divertida. Mas era ficção demais. Emenda 666, Dr. Necrose, BolsoLula -- tudo inventado. O problema e que a realidade brasileira de 2023 a 2026 ja E mais absurda que qualquer coisa que eu pudesse inventar. Um presidente preso tentando serrar a tornozeleira com ferro de solda. O filho fugindo pros EUA enquanto o STF caça ele por edital. O outro filho brigando com o governador pela pre-candidatura. Um banqueiro pagando 80 milhoes pra mulher do ministro do Supremo. OITENTA MILHOES. Eu nao preciso inventar nada. Eu so preciso desenhar o que aconteceu. E botar zumbi."*
 
 ---
 
-# PROLOGO COMPARTILHADO
+# PROLOGO: O PACIENTE ZERO
 
-## A Emenda 666
+## 8 de janeiro de 2023 -- O Dia em que Brasilia Morreu
 
-Brasilia, outubro de 2026. Vespera do segundo turno das eleicoes mais caoticas da historia do Brasil.
+Brasilia, 8 de janeiro de 2023. Uma semana apos a posse do zumbi Lula.
 
-O Congresso Nacional, num espasmo de autopreservacao, aprova a **Emenda Constitucional 666** as 3h47 da madrugada. Texto: *"Nenhum mandato eletivo sera extinto por qualquer causa, incluindo mas nao limitado a: renuncia, cassacao, impeachment, ou morte."*
+Desde novembro, milhares de apoiadores de Bolsonaro estavam acampados no Setor Militar Urbano, em frente ao Quartel-General do Exercito. Barracas, carros de som, bandeiras do Brasil, faixas pedindo intervencao militar. O acampamento tinha virado uma cidade paralela -- com cozinha comunitaria, banheiro quimico, e um cheiro que misturava suor patriotico com esperanca desesperada.
 
-Ninguem leu. Ninguem nunca le.
+No jogo, o acampamento e o PROLOGO JOGAVEL. O jogador ve a cena de dentro -- como um dos manifestantes comuns (Modo Cidadao) ou como um politico de baixo escalao tentando capitalizar o caos (Modo Politico).
 
-O que ninguem sabia e que a Emenda 666 tinha um anexo de 847 paginas escrito por um estagiario do Congresso que ninguem conhece -- um certo **Dr. Necrose**, ex-assessor parlamentar com doutorado em "Ciencia Legislativa Avancada" pela Universidade da URSAL. O anexo continha, entre inumeras clausulas incompreensiveis, o **Artigo 666-B, Paragrafo Unico**: *"Para fins desta emenda, a permanencia no cargo sera garantida por TODOS os meios disponiveis, incluindo meios nao convencionais, sobrenaturais, ou previamente considerados impossiveis pela ciencia moderna."*
+Por volta das 13h, a multidao comeca a se mover. Quatro mil pessoas saem do QG e marcham pela Esplanada dos Ministerios em direcao a Praca dos Tres Poderes. Bombas de efeito moral. Gas lacrimogeneo. Cavalaria. E ai, as 15h20, alguem derruba as grades do Planalto. Sobem a rampa. Quebram os vidros. Entram.
 
-Na madrugada seguinte a aprovacao, uma nevoa verde e fetida comecou a subir dos tuneis subterraneos do Congresso Nacional. O Espelho D'Agua ficou turvo. As luzes do Planalto piscaram. E nos corredores do Anexo IV, os primeiros gemidos foram ouvidos.
+E nesse momento -- no jogo -- que a nevoa verde aparece.
 
-Os politicos mortos voltaram. E os vivos ficaram piores que os mortos.
+Nao de um estagiario maluco. Nao de uma emenda secreta. A nevoa sobe do chao da Praca dos Tres Poderes no exato instante em que os invasores pisam no plenario do STF, rasgam quadros, quebram o relogio de Dom Joao VI, e jogam cadeiras pela janela. Como se a violencia contra as instituicoes tivesse literalmente DESPERTADO algo podre que ja estava enterrado debaixo de Brasilia desde a fundacao.
 
-Em 48 horas, Brasilia inteira estava infestada. A nevoa verde se espalhou pela Esplanada, pelo Eixo Monumental, pelos setores comerciais, pelas cidades-satelite. Quem estava no Plano Piloto nao conseguia sair. Quem estava fora nao queria entrar.
+A metafora e simples: a politica brasileira ja estava morta. O 8 de janeiro so tirou a terra de cima.
 
-O exercito cercou a cidade. A Globo cobriu ao vivo por 20 minutos antes de perder o sinal. O Twitter ficou fora do ar por 6 horas (Xandao mandou derrubar "por precaucao"). Quando voltou, a hashtag #BrasiliaZumbi ja era trending mundial.
+**Cutscene do Prologo:**
 
-No meio do caos, duas historias comecam.
+> NARRADOR (voz do Andre Guedes): "Dia 8 de janeiro de 2023. Quatro mil pessoas invadiram o Congresso, o STF e o Planalto. Quebraram tudo. A conta do prejuizo: onze milhoes so no Supremo. A conta da democracia: ainda em aberto."
+
+> "Naquele dia, o chao de Brasilia rachou. Uma nevoa verde e fedida subiu das fundacoes. Quem inalou nao morreu na hora. Morreu por dentro. Devagar. Como quem assiste sessao do Congresso ate o final."
+
+> "Os medicos chamaram de 'Sindrome de Brasilia'. Os cientistas chamaram de 'infeccao institucional'. O povo chamou do unico jeito que faz sentido: ZUMBI."
+
+> "E assim comecou. Nao com um virus de laboratorio. Nao com um meteoro. Com uma invasao, uma rampa quebrada, e o cheiro de um pais que ja estava apodrecendo ha tempo."
+
+---
+
+---
+
+# ============================================================
+# LINHA DO TEMPO: A CRONICA ZUMBI (2023-2026)
+# ============================================================
+
+O jogo segue a cronologia REAL dos eventos politicos brasileiros, transformados em fases. Cada fase e um capitulo da historia recente. A infeccao zumbi se espalha em paralelo aos acontecimentos politicos -- e muitas vezes, e CAUSADA por eles.
+
+| Fase | Evento Real | Periodo | Tom |
+|---|---|---|---|
+| Prologo | Invasao do 8 de Janeiro | Jan 2023 | Caos, origem |
+| Fase 1 | O Acampamento e a Invasao | Jan 2023 | Terror, turba |
+| Fase 2 | A Prisao de Bolsonaro | Ago-Nov 2025 | Cerco, tensao |
+| Fase 3 | A Fuga de Eduardo para os EUA | Set-Out 2025 | Perseguicao, farsa |
+| Fase 4 | Flavio vs Tarcisio: A Batalha pela Direita | Dez 2025 - Mar 2026 | Duelo politico |
+| Fase 5 | O Escandalo do Banco Master | Nov 2025 - Abr 2026 | Conspiracao, corrupcao |
+| Fase 6 | A Eleicao de 2026 | Out 2026 | Clímax, escolha final |
 
 ---
 
@@ -41,497 +67,476 @@ No meio do caos, duas historias comecam.
 
 ## FICHA DO PROTAGONISTA
 
-**Nome:** Ze (Maria, se o jogador escolher a versao feminina)
+**Nome:** Ze (Maria, se feminino)
 **Idade:** 34 anos
-**Profissao:** Servidor publico federal -- tecnico administrativo no Ministerio do Planejamento (o unico ministerio que ninguem consegue explicar o que faz)
-**Residencia:** Asa Sul, bloco de apartamentos funcionais na SQS 308
-**Estado civil:** Solteiro (a). O ex foi morar em Portugal "pra tentar a vida" e nunca mais voltou. Tipo metade dos brasileiros.
+**Profissao:** Servidor publico federal, tecnico administrativo no Ministerio do Planejamento
+**Residencia:** Asa Sul, SQS 308
 
 **Visual (estilo Andre Guedes):**
-- Cabeca grande, corpo atarracado, expressao de quem acabou de receber uma conta de luz de R$ 800
-- Polo azul desbotada do tipo que compra em lote no Brás
-- Bermuda jeans cortada na altura do joelho
-- Chinelo Havaianas (azul, as tiras ja meio soltas)
-- Olheiras profundas de quem pega onibus as 5h30 da manha
-- Mochila surrada com logo desbotado de faculdade particular
+- Cabeca grande, corpo atarracado, expressao de quem acabou de receber conta de luz de R$ 800
+- Polo azul desbotada comprada em lote no Bras
+- Bermuda jeans cortada, chinelo Havaianas azul com tiras soltas
+- Olheiras de quem pega onibus as 5h30
 - Cracha funcional pendurado no pescoco (sempre esquece de tirar)
 - 3 variantes de tom de pele (claro, medio, escuro)
 
 **Personalidade:**
-- Pragmatico e sarcastico. Anos de servico publico mataram qualquer idealismo.
-- Nao e heroi. Nao e covarde. E um brasileiro que quer chegar vivo em casa pra ver o jogo do Flamengo (ou Corinthians, dependendo da regiao do jogador).
-- Comenta tudo que ve com uma frase acida, como se estivesse no grupo de WhatsApp da familia.
-- Detesta todos os politicos igualmente. Acha que "sao tudo farinha do mesmo saco".
+- Pragmatico, sarcastico. Anos de servico publico mataram qualquer idealismo.
+- Detesta todos os politicos igualmente. "Tudo farinha do mesmo saco."
 - Coragem vem do desespero, nao da bravura.
-
-**Backstory:**
-Ze trabalhava ha 11 anos no Ministerio do Planejamento. Nunca foi promovido. Nunca foi demitido. Existia num limbo burocratico onde seu trabalho consistia em "assessorar o assessor do assessor do subsecretario adjunto de planejamento estrategico". Ninguem sabia exatamente o que ele fazia. Nem ele.
-
-Na noite da Emenda 666, Ze estava fazendo hora extra (nao por dedicacao, mas porque o ar-condicionado do ministerio era melhor que o do apartamento dele). Quando a nevoa verde comecou a subir do chao, ele pensou que era mais um vazamento de esgoto. Quando o colega do cubículo ao lado levantou com os olhos vidrados e comecou a gemer "reeeleicaoooo...", Ze entendeu que algo estava errado.
-
-Pegou a vassoura do armario de limpeza. Sobreviveu a noite. E agora precisa atravessar Brasilia inteira pra chegar ate a Rodoviaria do Plano Piloto -- o unico ponto de evacuacao que ainda funciona -- antes que o exercito feche o cerco de vez.
+- Comenta tudo como se estivesse no grupo de WhatsApp da familia.
 
 ---
 
-## ARCO NARRATIVO: A TRAVESSIA
-
-A historia do Cidadao e uma jornada de sobrevivencia do ponto A ao ponto B, atravessando as regioes mais iconicas (e agora infestadas) de Brasilia. Cada fase e uma regiao. Cada regiao tem seus horrores. E em cada uma, Ze descobre mais sobre como a Emenda 666 transformou a capital no inferno.
-
-### Estrutura em 3 Atos:
-
-**ATO 1 (Fases 1-2): A FUGA** -- Ze descobre o apocalipse e tenta sobreviver. Tom de terror com humor nervoso. O jogador ainda esta aprendendo as mecanicas.
-
-**ATO 2 (Fases 3-4): A TRAVESSIA** -- Ze cruza o coracao de Brasilia. O caos politico se revela em toda sua grotescaria. Aliados aparecem e morrem (ou traem). Tom de acao com satira pesada.
-
-**ATO 3 (Fases 5-6): O CONFRONTO** -- Ze descobre que fugir nao basta. O mal tem nome, cargo e gabinete. Tom de climax heroico com humor negro total.
-
----
-
-## FASE 1: "EXPEDIENTE DO INFERNO"
-### Locacao: Esplanada dos Ministerios (Bloco do Planejamento ate o Eixo Monumental)
+## FASE 1 -- CIDADAO: "O DIA QUE O CHAO ABRIU"
+### Locacao: Esplanada dos Ministerios + Praca dos Tres Poderes
+### Evento real: Invasao de 8 de Janeiro de 2023
 
 **Narrativa de abertura:**
 
-*Tela preta. Som de teclado digitando. Ar-condicionado chiando.*
-
-> ZE (narracao): "As 23h47 de uma terca-feira, eu estava no Ministerio do Planejamento fazendo hora extra. Nao porque eu gosto do trabalho. Porque o ar-condicionado de la e melhor que o do meu apartamento. Cento e oitenta mil no IPVA e o governo nao me da nem ventilador."
-
-*Som de algo quebrando no andar de baixo. Gemidos distantes.*
-
-> ZE: "Primeiro achei que era o pessoal da limpeza. Ai lembrei que a limpeza foi terceirizada pra uma empresa fantasma em 2024. Ai achei que era o zelador. Ai lembrei que o zelador se aposentou. Pelo INSS. O mesmo INSS que ninguem auditou."
-
-*A nevoa verde comeca a entrar por baixo da porta.*
-
-> ZE: "Quando o Carlao do cubículo B7 levantou da cadeira com os olhos verdes brilhando e veio na minha direcao gemendo 'reeeleicaoooo', eu fiz o que qualquer servidor publico faria: peguei a vassoura do armario e corri pro corredor."
-
-**Gameplay da Fase 1:**
-
-O jogador comeca dentro do Ministerio do Planejamento (corredor com escritorios). Tutorial disfarçado: o primeiro zumbi (Carlao) se aproxima lento e o jogador aprende a se mover e atacar. Saindo do predio, o jogador ve a Esplanada dos Ministerios pela primeira vez -- em toda sua gloria apocaliptica.
+> ZE (narracao): "Dia 8 de janeiro, eu tava fazendo hora extra no Ministerio do Planejamento. Nao por dedicacao. Pelo ar-condicionado. Ai comecou o barulho. Primeiro achei que era manifestacao normal -- Brasilia tem manifestacao como Sao Paulo tem rodizio. Ai a janela estourou. Ai o chao tremeu. Ai o Carlao do cubículo B7 levantou com os olhos verdes e veio na minha direcao gemendo 'intervencao militar'."
 
 **Cenario:**
-- Interior do ministerio: corredores cinzas, luzes piscando, cubiculos vazios com cafezinho ainda quente
-- Exterior: Esplanada ao entardecer, ceu laranja-sangue, nevoa verde nos pes, blocos ministeriais com janelas escuras
-- Congresso Nacional visivel ao fundo, pulsando verde sinistro
-- Santinhos voando pelo vento como folhas de outono
+- Interior do Ministerio: luzes piscando, papeis voando, servidores correndo
+- Exterior: Esplanada tomada por multidao. Bombas de gas. Cavalaria. Fogo em lixeiras.
+- Praca dos Tres Poderes ao fundo: multidao subindo a rampa do Planalto
+- A nevoa verde sobe das rachaduras no chao enquanto os invasores quebram vidros
+- Santinhos antigos de campanha voam como confete junto com documentos oficiais
 
 **Inimigos:**
 
-| Inimigo | Quantidade | Comportamento |
+| Inimigo | Descricao | Comportamento |
 |---|---|---|
-| **Zumbi Burocrata** (variante do Vereador) | Muitos | Ex-servidores publicos. Andam em fila indiana como se estivessem indo pro refeitorio. Gemem "protocolo..." e "carimba aqui...". Lentos, fracos, numerosos. |
-| **Assessor de Fake News** | Poucos | Aparecem nas janelas dos ministerios. Arremessam manchetes como projeteis: "GOVERNO NEGA APOCALIPSE", "ZUMBIS SAO FAKE NEWS DIZ MINISTRO". |
-| **Estagiario Perdido** (NPC aliado) | 1 | Um estagiario apavorado que se junta a Ze. Nao luta. Corre atras do jogador. Se morrer, grita "MAS EU SO QUERIA PREENCHER PLANILHA!" |
+| **Patriota-Zumbi** | Manifestante infectado. Camisa da selecao amarela, bandeira do Brasil amarrada no pescoco, apito no peito. | Avanca gritando "MINHA BANDEIRA JAMAIS SERA..." sem terminar a frase. Lento, vem em horda. |
+| **Black Bloc-Zumbi** | Contramanifestante infectado. Roupa preta, mascara, pedra na mao. | Rapido, arremessa objetos. Aparece em grupos menores. |
+| **PM-Zumbi** | Policial Militar infectado. Escudo, cassetete, capacete. | Blindado na frente (escudo), vulneravel por tras. Avanca em formacao. |
+| **Burocrata-Zumbi** | Servidor publico que nao saiu a tempo. Terno cinza, cracha, pasta. | Anda em fila indiana como se fosse pro refeitorio. Geme "protocolo... carimba aqui..." |
 
-**Boss: O SECRETARIO ADJUNTO**
+**NPC aliado: Dona Marta**
+Faxineira do Congresso, 62 anos, vassoura como arma. Conhece cada corredor e tunel de Brasilia. "Eu limpo o Congresso ha 37 anos, meu filho. Ja vi coisa pior que zumbi ali dentro. Ja vi votacao de emenda as 3 da manha."
 
-Um zumbi de terno impecavel sentado atras de uma mesa que flutua. Tem 4 carimbos gigantes que usa como armas. Cada carimbo estampa algo diferente no jogador ao acertar: "INDEFERIDO", "EM ANALISE", "AGUARDANDO PARECER", "EXTRAVIADO".
+**Boss: O GENERAL DE PIJAMA**
 
-> SECRETARIO (ao aparecer): "Voce tem agendamento? Sem agendamento nao entra. Nem na morte."
-> SECRETARIO (ao ser derrotado): "Mas... eu tenho... estabilidade..." *esfarela em papeis*
+Caricatura do militar reformado de WhatsApp. Gordao, pijama camuflado (nao e farda, e pijama ESTAMPADO de camuflagem), chinelo de couro, celular na mao com 847 grupos de Telegram abertos. Ficou tao tempo no acampamento em frente ao quartel que a infeccao o transformou no primeiro zumbi-lider.
 
-**Dialogo pos-fase:**
+**Visual:** Barrigudo, bigode grosso, oculos de sol de camelô, boina torta, medalhas falsas no peito do pijama.
 
-> ZE (olhando a Esplanada devastada): "Onze anos trabalhando aqui e nunca vi tanto movimento. Normalmente depois das 6 da tarde isso vira cidade fantasma. Pelo menos os fantasmas agora sao literais."
+**Ataques:**
+1. **"Atencao, Tropa!"** -- Toca corneta de celular (audio de WhatsApp). Convoca onda de Patriotas-Zumbi.
+2. **"Fake News Tatica!"** -- Arremessa celulares que explodem em noticias falsas (dano em area + confusao visual: manchetes cobrindo a tela por 2s).
+3. **"Intervencao!"** -- Avanca com bandeirão do Brasil como escudo/arma. Varredura horizontal.
 
-**Item coletavel da fase:** *Cracha Funcional Reforçado* -- aumenta defesa. Descricao: "Feito de um material mais resistente que o compromisso de campanha medio."
+**Dialogos:**
 
-**Transicao para a Fase 2:**
+> GENERAL (ao aparecer): "SOLDADO! Voce esta do lado ERRADO da historia! Eu tenho informacao PRIVILEGIADA de que a cavalaria vem! Ta no grupo!"
+> ZE: "Qual grupo? O de 300 pessoas que ninguem pediu pra entrar?"
+> GENERAL (a 50% HP): "EU SERVI ESTE PAIS! Eu mereco RESPEITO! Eu fui... fui... cabo reformado!"
+> GENERAL (derrotado): "A cavalaria... vem... confiem... no plano..." *celular toca com audio de WhatsApp: "BOM DIA GRUPO!"*
 
-Ze e o Estagiario (se sobreviveu) chegam ao Eixo Monumental. La, um carro de som abandonado toca um jingle de campanha num loop eterno e distorcido. Uma placa pichada indica: "RODOVIARIA → 8km". Ze olha para o Congresso pulsando verde ao fundo.
+**Revelacao narrativa:** Apos a luta, Ze e Dona Marta veem a nevoa verde se espalhando pela Esplanada. Os invasores que entraram no STF estao saindo... mas nao estao mais vivos. Nem mortos. Estao gemendo. Cambaleando. E infectando quem encostam.
 
-> ZE: "Oito quilometros. E so nao morrer por oito quilometros. Eu corria mais que isso na fila do INSS."
-> ESTAGIARIO: "Senhor Ze, eu acho que a gente devia ir por dentro. Pela Catedral."
-> ZE: "Pela Catedral? Voce quer passar do lado do Congresso?"
-> ESTAGIARIO: "E que... eu ouvi no radio que la tem sobreviventes."
-> ZE: "Voce ouviu no radio. No radio que parou de funcionar. Que provavelmente ta tocando 'Sera?' do Zema em loop. Ta bom. Vamo pela Catedral."
+> DONA MARTA: "Meu filho, isso nao e manifestacao. Isso e epidemia."
+> ZE: "A senhora acha que o gas lacrimogeneo causa isso?"
+> DONA MARTA: "Gas lacrimogeneo causa ardencia nos olhos. O que ta causando ISSO e essa cidade. Brasilia. Quarenta anos de podridao debaixo desse concreto. Hoje abriu."
 
 ---
 
-## FASE 2: "MISSA NEGRA"
-### Locacao: Catedral Metropolitana de Brasilia e arredores
+## FASE 2 -- CIDADAO: "O PRESO"
+### Locacao: Condominio Solar de Brasilia (Lago Sul) + redondezas
+### Evento real: Prisao de Jair Bolsonaro (agosto-novembro 2025)
+
+**Contexto real incorporado:**
+- Agosto 2025: Moraes decreta prisao domiciliar de Bolsonaro apos violacao de restricoes de redes sociais
+- Novembro 2025: Prisao domiciliar convertida em preventiva apos ele tentar violar a tornozeleira com ferro de solda
+- Bolsonaro convocou "vigilia" de apoiadores no condominio antes da prisao preventiva
 
 **Narrativa de abertura:**
 
-> ZE (narracao): "A Catedral de Brasilia foi projetada pelo Niemeyer pra ser um espaco de luz e espiritualidade. Com aqueles vitrais coloridos, os anjos suspensos, a estrutura que parece maos rezando pro ceu. Bonito, ne? Pois agora os vitrais tao quebrados, os anjos cairam, e as maos parecem estar pedindo socorro."
+> ZE (narracao): "Dois anos depois do 8 de janeiro. A nevoa verde nao foi embora. So ficou mais discreta. Entrou nos tuneis, nas fundacoes. Brasilia aprendeu a conviver com uns zumbis aqui e ali. O povo chamava de 'nova Brasilia'. Ai prenderam o Bolsonaro. E a nevoa voltou com forca."
+
+> "O condominio dele virou zona de guerra. Metade queria libertar ele. Metade queria garantir que ficasse preso. E a nevoa verde aproveitou a confusao pra infectar todo mundo."
 
 **Cenario:**
-- Catedral por fora: estrutura em concreto com os 16 pilares curvos, vitrais estilhacados, nevoa verde saindo de dentro
-- Interior da Catedral: abobada imensa, bancos de madeira virados, velas derretidas, um altar improvisado com barricada
-- Luz entrando pelos vitrais quebrados criando sombras coloridas no chao -- bonito e sinistro ao mesmo tempo
-- Tunel subterraneo da Catedral que conecta ao Congresso (passagem secreta real que existe)
-
-**Encontro com sobreviventes:**
-
-Dentro da Catedral, Ze encontra um grupo de sobreviventes liderado pela **Dona Marta**, uma faxineira do Congresso de 62 anos que conhece todos os corredores e tuneis subterraneos de Brasilia.
-
-> DONA MARTA: "Eu limpo o Congresso ha 37 anos, meu filho. Ja vi coisa pior que zumbi ali dentro. Ja vi votacao de emenda as 3 da manha. Ja vi deputado dormindo em plenario com a baba escorrendo. Ja vi requerimento de urgencia pra dar nome de rua. O apocalipse nao me assusta. O que me assusta e a conta de luz."
-
-**Outros sobreviventes na Catedral (NPCs):**
-
-| NPC | Descricao | Funcao |
-|---|---|---|
-| **Dona Marta** | Faxineira, 62 anos, vassoura como arma, conhece cada canto de Brasilia | Guia / expo de lore |
-| **Tião do Cachorro-Quente** | Ambulante da Esplanada, 45 anos, carrinho de hot dog como barricada movel | Vendedor de itens (comida = cura) |
-| **Dr. Protocolino** | Ex-procurador aposentado, 71 anos, fala exclusivamente em juridiques | Dá missoes secundarias absurdas ("Preciso que voce encontre meu parecer sobre a inconstitucionalidade da mordida de zumbi") |
-| **Blogueiro Politico** | Influenciador de 22 anos com anel light e microfone de lapela, ainda tentando gravar conteudo | Comic relief, oferece "dicas" inuteis ("Galera, to ao vivo do apocalipse! Like e inscreva-se!") |
+- Condominio de luxo no Lago Sul: casas enormes, ruas arborizadas, vigilancia privada
+- Casa de Bolsonaro cercada por barricadas policiais E por apoiadores acampados
+- Velas, bandeiras, barracas de camping em frente ao portao -- uma versao menor do acampamento do QG
+- A nevoa verde mais densa perto da casa, como se algo dentro da prisao domiciliar ATRAISSE a infeccao
+- Carros blindados da PF estacionados, alguns abandonados, alguns com motoristas-zumbi
 
 **Inimigos:**
 
-| Inimigo | Quantidade | Comportamento |
+| Inimigo | Descricao | Comportamento |
 |---|---|---|
-| **Zumbi Burocrata** | Muitos | Versao base, agora vem em ondas maiores |
-| **Padre-Zumbi** | Medio | Saiu da propria Catedral. Veste batina rasgada. Arremessa agua benta que virou agua contaminada (dano em area). Geme: "A missa... nunca... acaba..." |
-| **Turista-Zumbi** | Medio | Turista que estava visitando Brasilia. Ainda segura camera/celular. Quando ve o jogador, tira foto (flash = deslumbra por 1s). Geme: "Que linda... a arquitetura..." |
+| **Vigilante-Zumbi** | Apoiador que fazia vigilia no condominio. Camisa amarela, barraca nas costas, terço no pescoco. | Lento mas persistente. Geme: "Mito... mito..." em loop. Vem em hordas enormes. |
+| **Agente da PF-Zumbi** | Policial federal infectado. Colete a prova de balas, arma travada, oculos escuros. | Resistente, ataca com cassetete. "Mandado... cumprido..." |
+| **Advogado-Zumbi** | Ex-advogado de defesa. Terno caro, pasta de documentos, celular com 47 recursos protocolados. | Grita "HABEAS CORPUS!" criando escudo temporario nos zumbis proximos. Prioridade de eliminacao. |
+| **Jornalista-Zumbi** | Reporter infectado. Microfone na mao, cameraman atras. | Nao ataca. Segue o jogador e FILMA tudo. Se o jogador faz algo moralmente questionavel na frente dele, manchete aparece na tela: "CIDADAO ATACA INOCENTES" (debuff moral). |
 
-**Boss: O COROINHA DO APOCALIPSE**
+**Evento especial: O FERRO DE SOLDA**
 
-Uma crianca-zumbi de tunica vermelha que controla os sinos da Catedral. Cada badalada invoca uma onda de zumbis. O jogador precisa subir ate o sino e destrui-lo enquanto desvia das ondas.
+No meio da fase, uma cutscene: dentro da casa, a silhueta de Bolsonaro-Zumbi e vista pela janela tentando serrar a propria tornozeleira eletronica com um ferro de solda. Faiscas voam. A cena e absurda, comica e patetica ao mesmo tempo -- porque ACONTECEU DE VERDADE.
 
-> COROINHA (em loop): "Din... don... din... don... a sessao... esta... aberta..."
+> ZE (vendo pela janela): "Ele ta... ele ta tentando cortar a tornozeleira com ferro de solda?"
+> DONA MARTA: "Meu filho, eu ja vi deputado tentando fugir de CPI pela janela do banheiro. Nada me surpreende."
+> ZE: "E ta funcionando?"
+> DONA MARTA: "Tao bem quanto o governo dele funcionou."
 
-(Referencia: o sino da Catedral toca nos mesmos horarios que a abertura de sessao do Congresso)
+**Boss: BOLSONARO-ZUMBI -- O MITO APODRECIDO**
 
-**Revelacao narrativa da Fase 2:**
+Ele esta PRESO. Nao sai da casa. O boss fight e dentro do condominio. Ze precisa entrar na casa (motivo: a fonte da nevoa verde nesta area emana de la dentro -- Bolsonaro virou um polo de infeccao porque acumulou tanta raiva, ressentimento e negacao que a Sindrome de Brasilia se ALIMENTA dele).
 
-Dona Marta conta sobre os tuneis subterraneos que conectam a Catedral ao Congresso Nacional. Ela diz que a nevoa verde vem de la de baixo. "Tem algo no plenario, meu filho. Algo que nao devia ter sido aprovado. Nem os mortos leem o que votam."
+**Visual (estilo Andre Guedes no maximo):**
+- Sentado numa cadeira de praia no quintal da mansao, como se estivesse de ferias
+- Bermuda tactel, camisa aberta da selecao com barriga aparecendo
+- Tornozeleira eletronica com marcas de ferro de solda (tentativa frustrada)
+- Celular na mao MESMO ZUMBIFICADO -- ainda tentando fazer live
+- Olhos vidrados mas com sorriso forcado permanente -- o "sorriso do mito" congelado no rosto
+- Cicatrizes da facada (referencia real a 2018) brilhando verde
+- Ao redor: trofeus de motociata, jetskis abandonados, quadros com fotos dele em Brasilia
 
-> ZE: "Dona Marta, a senhora ta dizendo que os TUNEIS do Congresso estao abertos?"
-> DONA MARTA: "Abertos, cheios de zumbi, e com cheiro de enxofre. Ou de esgoto. Em Brasilia as vezes e a mesma coisa."
-> ZE: "E a senhora acha que a gente devia ir PRA LA? Pro Congresso? Pro epicentro do apocalipse?"
-> DONA MARTA: "Nao, meu filho. EU acho que a gente devia ir pra Rodoviaria e pegar o primeiro onibus pra Goiania. Mas o tunel do Congresso e o UNICO caminho que passa por baixo da zona infestada e sai do outro lado, perto da Torre de TV."
-> ZE: "A vida e uma escolha entre opcoes ruins."
-> DONA MARTA: "Isso se chama eleicao, querido."
+**Ataques:**
+1. **"Eu Tenho Imunidade!"** -- Grita e uma onda sonica empurra o jogador. A onda carrega fantasmas de mandatos passados (silhuetas verdes).
+2. **"Live do Calabouco!"** -- Pega o celular e faz live. Todos os zumbis na area ficam 50% mais fortes por 8s (a audiencia o alimenta). O jogador pode destruir o celular pra cancelar.
+3. **"Motociata Fantasma!"** -- Uma moto fantasma verde atravessa o cenario em linha reta. Dano pesado. Referencia as motociatas.
+4. **"Ferro de Solda!"** -- Avanca com o ferro de solda ligado. Ataque corpo-a-corpo com dano de fogo. Lento mas devastador.
+5. **Fase 2 (50% HP):** A tornozeleira EXPLODE. Bolsonaro-Zumbi fica livre e muito mais rapido. "LIBERDADE! FINALMENTE!" Mas ele nao sabe pra onde ir. Corre em circulos pelo quintal.
 
-**Transicao para a Fase 3:**
+**Dialogos:**
 
-Ze, Dona Marta e quem mais sobreviveu descem aos tuneis subterraneos. O Blogueiro Politico fica pra tras ("Galera, vou fazer uma live de dentro da Catedral! Conteudo exclusivo!"). Ninguem tenta convence-lo do contrario.
+> BOLSONARO-ZUMBI (ao aparecer): "Cidadao! Eu fui ELEITO pelo povo! Voce nao pode entrar aqui! Isso e perseguicao! Isso e o SISTEMA!"
+> ZE: "O senhor ta verde, com olho vidrado, e tentou serrar a tornozeleira com ferro de solda. Acho que o sistema e o menor dos seus problemas."
+> BOLSONARO-ZUMBI (a 50% HP): "TALKEI?! Isso... nao... acaba... aqui! O povo... ta... comigo! Olha... os numeros... da live!"
+> BOLSONARO-ZUMBI (derrotado): "Eu... avisei... sobre... o comunismo... zumbi... mas ninguem... ouviu..." *cai de costas na cadeira de praia, celular ainda gravando, live com 3 visualizacoes*
+
+**Revelacao narrativa:** Nos documentos espalhados pela casa, Ze encontra mensagens de WhatsApp (printadas, porque politico brasileiro PRINTA TUDO) entre Bolsonaro e os filhos. Mensagens frenéticas de Eduardo: "Pai, eu vou pra fora. Nao volto enquanto o Xandao estiver no poder." Mensagens de Flavio: "Pai, a pre-candidatura e minha. O Tarcisio que se contente com SP."
+
+> ZE: "A familia inteira ta em panico."
+> DONA MARTA: "Familia de politico e igual familia de novela: todo mundo se odeia mas ninguem sai de cena."
 
 ---
 
-## FASE 3: "O PLENARIO DOS MORTOS"
-### Locacao: Tuneis subterraneos do Congresso Nacional + Plenario da Camara dos Deputados
+## FASE 3 -- CIDADAO: "O FUGITIVO"
+### Locacao: Aeroporto de Brasilia + Embaixada Americana
+### Evento real: Fuga de Eduardo Bolsonaro para os EUA (setembro 2025)
+
+**Contexto real incorporado:**
+- Eduardo autoexilado nos EUA desde fevereiro de 2025
+- Acusado de fomentar sancoes de Trump contra o Brasil
+- Reu no STF por promover sancoes contra o proprio pais
+- Cassacao do mandato por excesso de faltas
+- Moraes mandou notifica-lo por EDITAL (porque ninguem acha ele)
 
 **Narrativa de abertura:**
 
-> ZE (narracao): "Eu nunca tinha entrado no Congresso Nacional. Em onze anos de Brasilia, nunca. Acho que inconscientemente eu sabia que nao ia gostar do que ia encontrar. Agora eu to nos tuneis subterraneos, no escuro, com uma lanterna de celular e uma vassoura, indo em direcao ao predio mais odiado do Brasil. E ironia ou destino? Em Brasilia, geralmente e os dois."
+> ZE (narracao): "Eduardo Bolsonaro. O 03. O filho que foi pros EUA 'por razoes pessoais'. As razoes pessoais: fugir do STF, do Moraes, e de qualquer coisa com CPF brasileiro. La nos Estados Unidos ele se diz pre-candidato a presidente. Do Brasil. O pais que ele FUGIU. A logica seria: como concorrer num pais que voce abandonou? Mas logica e politica nunca foram apresentadas."
 
 **Cenario:**
-- Tuneis subterraneos: concreto bruto, tubulacoes expostas, agua suja no chao, nevoa verde mais densa
-- Paredes com grafites e pichacoes de estagiarios de decadas passadas: "CAIO ESTEVE AQUI 1998", "FORA COLLOR" (em letras desbotadas), "EMENDA E VIDA" (em letras recentes)
-- O tunel abre para os corredores do Congresso: carpete vermelho encharcado de uma substancia verde-escura, retratos de ex-presidentes com os olhos riscados
-- Plenario da Camara: a enorme sala semicircular com as cadeiras de deputados, agora ocupadas por zumbis de terno que se levantam quando o jogador entra
-- A Cadeira da Presidencia da Camara no centro elevado, pulsando com energia verde
+- Aeroporto Internacional de Brasilia: terminal moderno, lojas de duty free saqueadas, paineis de voo todos mostrando "CANCELADO" em vermelho
+- Uma zona do aeroporto e "limpa" -- a area VIP, onde o poder ainda funciona
+- Embaixada Americana ao fundo: gradeada, protegida, com bandeiras dos EUA e aguias que vigiam
+- Avioes estacionados na pista, alguns com motores ainda ligados, com fila de zumbis tentando embarcar
+
+**Mecanica da fase:** Uma fase de FUGA REVERSA. Em vez de fugir DOS zumbis, Ze precisa IMPEDIR a fuga de alguem. Eduardo-Zumbi esta tentando chegar ao aviao da embaixada. O jogador precisa alcanca-lo atraves do aeroporto infestado enquanto Eduardo usa todas as ferramentas possiveis pra retardar a perseguicao.
 
 **Inimigos:**
 
-| Inimigo | Quantidade | Comportamento |
+| Inimigo | Descricao | Comportamento |
 |---|---|---|
-| **Zumbi-Deputado** (variante avancada do Vereador) | Hordas | Sentados nas cadeiras do plenario. Levantam quando detectam o jogador. Cada um tem um botao de votacao na mao e grita "SIM!" ou "NAO!" aleatoriamente ao atacar. Alguns tem cracha de partidos diferentes -- mas todos atacam igual. |
-| **Assessor Parlamentar** | Muitos | Andam em pares, carregando pastas enormes. Arremessam PROJETOS DE LEI como projeteis (folhas de papel cortantes). Nomes dos projetos visiveis: "PL 666 -- PROIBICAO DE MORRER SEM AUTORIZACAO", "PL 999 -- REAJUSTE DE SALARIO ZUMBI" |
-| **Senador Blindado** | Poucos | Versao original. Escudo de Imunidade Parlamentar. Lento, resistente, arrogante. Ao morrer: "TENHO FORO PRIVILEGIADO MESMO DEPOIS DE MORTO!" |
-| **Lobista-Zumbi** | Raro | Nao ataca. Fica nos corredores sussurrando propostas para os outros zumbis, que ficam mais agressivos. Joga dinheiro nos Deputados-Zumbi que ficam 2x mais rapidos. Se morto, dropa maleta de dinheiro (power-up de area). |
+| **Turista-Zumbi** | Passageiros infectados. Mala de rodinha, passaporte na mao. | Rapidos (queriam pegar o voo). Bloqueiam corredores com malas. "Embarque... no portao... seis..." |
+| **Seguranca de Aeroporto-Zumbi** | Detector de metal como arma. Apita quando o jogador se aproxima (alerta outros zumbis). | "Senhor, abra... a mala..." |
+| **Influencer-Zumbi** | Celular com ring light, fazendo selfie do apocalipse. | Flash causa deslumbramento (1s). "Conteudo exclusivo! Like e subscribe!" |
+| **Diplomata-Zumbi** | Terno perfeito, maleta diplomatica. Imune a certos ataques (imunidade diplomatica). | Precisa de ataque especial pra derrubar. "Sou imune. Consulte meu governo." |
 
-**EVENTO ESPECIAL: A VOTACAO**
+**Boss: EDUARDO-ZUMBI -- O BANANA REPUBLICANO**
 
-No meio da fase, ao chegar no Plenario, TODOS os zumbis sentam nas cadeiras simultaneamente. Um placar eletronico acende no alto: "EMENDA 667 -- ZUMBIFICACAO COMPULSORIA: SIM OU NAO?"
+Eduardo nao esta totalmente zumbificado. Esta num estado intermediario -- infectado o bastante pra ser perigoso, lucido o bastante pra ser covarde. Ele FOGE o tempo todo. O boss fight e uma PERSEGUICAO pelo aeroporto.
 
-Os zumbis comecam a votar. O jogador tem 30 segundos para destruir o painel de votacao antes que a emenda passe. Se a emenda passar: onda extra de zumbis spawna. Se o jogador destruir o painel: todos os zumbis ficam confusos por 5 segundos ("Houve... empate... tecnico...").
+**Visual:**
+- Camisa polo Ralph Lauren (falsificada, mas ele jura que e original)
+- Bone "Make Brazil Great Again" (versao verde-amarela)
+- Passaporte americano numa mao, celular na outra gravando
+- Mala Louis Vuitton (falsificada) cheia de santinhos de campanha americana
+- Nariz arrebitado exagerado, queixo do pai mas menor, olhos shifty (olhando pros lados)
+- Uma banana dourada pendurada no cinto (referencia ao episodio real da banana na ONU e aos memes)
 
-> ALTO-FALANTE DO PLENARIO: "Atencao senhores deputados. A votacao da Emenda 667 esta em andamento. Parlamentares sao solicitados a retornar aos seus tumulos-- digo, seus assentos."
+**Mecanica do boss:** Eduardo corre pelo aeroporto. A cada 25% de HP que perde, ele PARA, faz um pronunciamento em ingles macarronico para uma camera imaginaria, e invoca ajuda.
 
-**Boss: O PRESIDENTE DA CAMARA DOS MORTOS**
+**Ataques:**
+1. **"Sanctions!"** -- Arremessa documentos de sancao que criam zonas de "embargo" no chao (dano ao pisar).
+2. **"I'm a Diplomat!"** -- Mostra passaporte americano. Cria escudo temporario. O jogador precisa arrancar o passaporte.
+3. **"Call Trump!"** -- Liga pro celular. Um holograma laranja e dourado aparece gritando frases aleatorias em ingles. Os zumbis proximos ficam mais agressivos (confusos pelo barulho).
+4. **"Fuga Estrategica!"** -- Eduardo corre 3x mais rapido por 5s, derrubando malas e cadeiras no caminho.
 
-Hugo Zotta (caricatura grotesca inspirada no arquetipo do presidente da Camara -- nao uma pessoa especifica, mas reconhecivel). Sentado na cadeira elevada da presidencia, que cresceu e se transformou numa especie de trono organico de concreto e madeira, com raizes descendo ate o subsolo.
+**Dialogos:**
 
-**Visual:** Terno preto com 47 botoes de partido diferentes. Sorriso largo demais -- chega atras das orelhas. Olhos que nao piscam. Martelo de presidente da Camara do tamanho de um pilar. A cadeira esta FUNDIDA nele -- ele nao consegue levantar. As raizes da cadeira sao o que bombeia a nevoa verde pro resto de Brasilia.
+> EDUARDO (ao ser encontrado): "Eu nao to fugindo! Eu to em MISSAO DIPLOMATICA! O Brasil precisa de mim FORA do Brasil!"
+> ZE: "Missao diplomatica? Voce ta fomentando sancao contra o PROPRIO PAIS!"
+> EDUARDO: "Sao sancoes CIRURGICAS! Pra derrubar o Xandao! Nao o pais!"
+> ZE: "E quem paga a conta das sancoes? O povo! EU!"
+> EDUARDO: "Detalhes, cidadao. Detalhes."
 
-**Ataques do Boss:**
-1. **"A sessao esta aberta!"** -- Bate o martelo. Onda de choque em area. Cadeiras voam.
-2. **"Requerimento de urgencia!"** -- Invoca Deputados-Zumbi que correm em linha reta pro jogador.
-3. **"Voto de lideranca!"** -- Todos os zumbis na sala atacam simultaneamente numa unica direcao.
-4. **"Obstrucao!"** -- Barricadas de madeira e carpete surgem no cenario, bloqueando caminhos.
-5. **Fase 2 do boss (50% HP):** A cadeira se levanta com raizes como pernas de aranha. O boss agora se move. Lento, mas devastador.
+> EDUARDO (a 50% HP): "Voce nao entende! Eu sou perseguido! O Moraes me notificou por EDITAL! EDITAL! Como se eu fosse RÉU FORAGIDO!"
+> ZE: "...Voce E reu foragido."
+> EDUARDO: "NO TECHNICALLY--"
 
-**Dialogos do Boss:**
+> EDUARDO (derrotado, caindo com a mala aberta, santinhos voando): "O Trum... vai... ligar... de volta... ele prometeu... ele sempre... promete..."
 
-> HUGO ZOTTA (ao aparecer): "Bem-vindo ao Plenario, cidadao. A entrada e livre. A saida... bom, a saida depende de votacao."
-> HUGO ZOTTA (ao perder 50% HP): "PLENARIO! SOCORRO! Invoquem... a COMISSAO... DE DEFESA..."
-> HUGO ZOTTA (ao perder 75% HP): "Voce nao pode... me tirar... da cadeira... eu tenho... EMENDA CONSTITUCIONAL..."
-> HUGO ZOTTA (ao ser derrotado): "A sessao... esta... encerrada... ate... a... proxima... legislatura..." *as raizes morrem, a nevoa verde diminui NO CONGRESSO, mas continua la fora*
+**Revelacao narrativa:** Dentro da mala de Eduardo, Ze encontra documentos sobre o Banco Master. Pagamentos. Contratos. Nomes. Muitos nomes. Um deles circulado em vermelho: "Vorcaro -- R$ 80 milhoes -- escritorio V.B.M."
 
-**Revelacao narrativa da Fase 3:**
-
-Apos derrotar Hugo Zotta, Ze encontra no subsolo do Plenario um laboratorio improvisado. Documentos revelam que a Emenda 666 nao foi acidente -- foi plantada por alguem. Um nome aparece nos documentos: **"Dr. Necrose -- Projeto Reeleicao Eterna"**.
-
-Dona Marta reconhece o nome.
-
-> DONA MARTA: "Dr. Necrose... esse nome... eu lembro. Era um assessorzinho do segundo escalao. Magro, palido, sempre nos corredores de madrugada. Todo mundo achava que era estagiario. Ele nunca foi embora. Em 37 anos, eu nunca vi ele sair do predio."
-> ZE: "A senhora acha que ele fez isso tudo? Uma pessoa?"
-> DONA MARTA: "Meu filho, um estagiario escreveu a Constituicao de 88 inteira enquanto os constituintes dormiam. Nunca subestime quem ninguem ve."
-
-**Transicao para a Fase 4:**
-
-Ze e Dona Marta saem pelos tuneis do outro lado do Congresso. Emergem na Praca dos Tres Poderes, entre o STF e o Palacio do Planalto. A nevoa verde e mais fraca aqui -- o Congresso era o epicentro, mas os outros poderes foram contaminados tambem.
-
-> ZE: "OK. Passamos pelo Congresso. Agora e so atravessar a Praca dos Tres Poderes, o Setor Comercial, a Rodoviaria, e a gente chega na evacuacao. Facil."
-> DONA MARTA: "Querido, a Praca dos Tres Poderes tem tres predios. Cada um com um tipo diferente de monstro. O Congresso eram os deputados. O Planalto tem o Executivo. E o STF..."
-> ZE: "O STF?"
-> DONA MARTA: "O STF tem o Xandao."
-> ZE: "..."
-> DONA MARTA: "Exato."
+> ZE: "V.B.M. Quem e V.B.M.?"
+> DONA MARTA: "Viviane Barci de Moraes. Esposa do Xandao."
+> ZE: "...Como a senhora sabe?"
+> DONA MARTA: "Eu leio os contratos que jogam no lixo, meu filho. Ninguem presta atencao na faxineira."
 
 ---
 
-## FASE 4: "A PRACA DOS TRES HORRORES"
-### Locacao: Praca dos Tres Poderes (STF + Palacio do Planalto + entorno)
+## FASE 4 -- CIDADAO: "O DUELO"
+### Locacao: Palacio dos Bandeirantes (Sao Paulo) + Av. Paulista
+### Evento real: Disputa Flavio Bolsonaro vs Tarcisio pela candidatura da direita (2025-2026)
+
+**Contexto real incorporado:**
+- Flavio Bolsonaro anunciou pre-candidatura a presidente pelo PL
+- Tarcisio de Freitas declarou apoio a Flavio mas se manteve como opcao
+- Flavio admitiu que poderia recuar, mantendo Tarcisio como coringa
+- Outros nomes: Zema (Novo), Caiado (PSD), disputando o espaco
+- Pesquisas abril 2026: Flavio empatado com Lula em varios cenarios
 
 **Narrativa de abertura:**
 
-> ZE (narracao): "A Praca dos Tres Poderes. Executivo, Legislativo e Judiciario. Em teoria, os tres pilares da democracia. Na pratica, tres predios cheios de gente que nao se suporta disputando quem tem mais poder. Agora, zumbificados, eles finalmente concordam em uma coisa: me matar."
+> ZE (narracao): "A essa altura eu ja tinha entendido: a infeccao zumbi nao era SÓ de Brasilia. Era de onde tivesse POLITICA. E o lugar com mais politica por metro quadrado depois de Brasilia e Sao Paulo. Mais especificamente: o escritorio do Tarcisio no Bandeirantes. Porque era la que a briga da direita tava acontecendo. Flavio queria ser presidente. Tarcisio dizia que apoiava. Mas todo mundo sabia que Tarcisio tambem queria. E quando dois politicos querem a mesma coisa, a unica coisa que sobra e destruicao."
 
 **Cenario:**
-- Praca dos Tres Poderes: espaco aberto e geometrico, monumental, com os tres predios ao redor
-- Palacio do Planalto a esquerda: rampa iconica com tapete vermelho (agora verde de limo), colunas brancas manchadas
-- STF a direita: fachada com as estátuas de Alfredo Ceschiatti, agora com olhos verdes brilhantes
-- Escultura "Os Guerreiros" (Dois Candangos) no centro da praca -- os dois operarios de bronze agora se MOVEM lentamente, guardando a passagem
-- Panteao da Patria ao fundo, com chamas verdes saindo da claraboia
+- Palacio dos Bandeirantes (sede do governo de SP): fachada classica, jardins impecaveis -- mas com nevoa verde saindo pelas janelas
+- Avenida Paulista: predios de vidro, MASP ao fundo, multidoes divididas entre Flavio e Tarcisio
+- A fase e dividida em DUAS ZONAS: lado Flavio (bandeiras azuis do PL, palanques, som alto) e lado Tarcisio (mais discreto, mais organizado, mais "tecnico")
+- A nevoa verde e mais intensa na FRONTEIRA entre as duas zonas -- onde os dois lados se enfrentam
+
+**Mecanica especial: ZONA DE FOGO CRUZADO**
+
+Ze esta preso entre dois exercitos politicos-zumbi que se atacam MUTUAMENTE. O jogador precisa atravessar o campo de batalha sem se alinhar a nenhum dos lados. Se atacar so zumbis de um lado, o OUTRO lado o considera aliado (buff) mas o primeiro lado o persegue com mais furia (debuff). Equilibrio e sobrevivencia.
 
 **Inimigos:**
 
-| Inimigo | Quantidade | Comportamento |
+| Inimigo | Descricao | Comportamento |
 |---|---|---|
-| **Ministro-Zumbi** (Executivo) | Medio | Saem do Planalto. Cada um carrega uma pasta ministerial diferente ("Saude", "Educacao", "Comunicacoes"). Quando morrem, dropam a pasta -- que e vazia. Frase: "O ministerio esta funcionando normalmente... igual sempre..." |
-| **Seguranca do Planalto** | Poucos | Fortemente armados, mas confusos sobre quem proteger. Atacam zumbis E o jogador aleatoriamente. "Identifique-se! Ah, tanto faz, ta todo mundo morto mesmo." |
-| **Estagiarios do STF** | Muitos | Rapidos, fracos, carregam pilhas de processos que usam como escudo. "O ministro mandou entregar! O ministro mandou entregar!" |
-| **Advogado-Zumbi** | Medio | Fica gritando "HABEAS CORPUS!" que cria escudo temporario nos outros zumbis. Precisa ser priorizado. |
+| **Militante-Flavio-Zumbi** | Camisa azul PL, santinho do Flavio no peito, agressivo e barulhento. | Ataque direto, sem sutileza. Grita: "E BOLSONARO! E BOLSONARO!" |
+| **Tecnocrata-Tarcisio-Zumbi** | Terno discreto, pasta de PowerPoint, fala mansa. | Mais calculista. Ataca em grupo coordenado. Geme: "A gestao... e o que importa... os numeros..." |
+| **Cabo Eleitoral Duplo** | Veste METADE camisa do Flavio, METADE do Tarcisio. Nao sabe pra que lado ir. | Fica paralisado de indecisao por 2s, depois ataca pra qualquer lado. "Quem ta na frente? Quem ta na frente?" |
+| **Eleitor-Generico-Zumbi** | Veste camisa da selecao, nao sabe quem apoiar. | Segue o grupo maior. Geme: "Vota no... no... em quem mesmo?" |
 
-**MINI-BOSS: TOFFOLI, O ADORMECIDO**
+**Boss: DUELO -- FLAVIO-ZUMBI vs TARCISIO-ZUMBI**
 
-Um ministro do STF que literalmente dorme em pe. Anda sonambulo em circulos no meio da praca. Quando o jogador se aproxima demais, acorda por 3 segundos, fica FURIOSO, ataca com violencia, e volta a dormir.
+A fase tem DOIS bosses simultaneos que lutam ENTRE SI e contra o jogador. O jogador pode escolher derrotar um primeiro (o outro fica mais forte absorvendo o poder do derrotado) ou tentar enfraquecer os dois igualmente.
 
-> TOFFOLI (dormindo): "Zzzzz... voto... favoravel... ao... zzzzz..."
-> TOFFOLI (acordando): "QUEM ME ACORDOU?! O PLENARIO ESTA EM SESSAO?! EU ESTAVA DELIBERANDO!"
-> TOFFOLI (voltando a dormir): "Zzzzz... vista... ao... relator... zzzzz..."
+**Flavio-Zumbi:**
+- Visual: Terno azul marinho justo demais, sorriso forcado de santinho eleitoral, cabelo engomado, broche "MODERADO" no peito (entre aspas ironicas enormes)
+- Fisicamente maior que Tarcisio (metafora do sobrenome Bolsonaro pesando mais)
+- Tem um celular ligado no ouvido -- "o pai" (Bolsonaro preso) dando ordens por telefone o tempo todo
+- Quando o celular toca, Flavio para de atacar por 2s pra atender: "Sim, pai. Sim, pai. Eu sei, pai."
 
-Mecanica: o jogador precisa atacar apenas nos 3 segundos que ele dorme. Se Toffoli acordar, foge e espera ele dormir de novo.
+**Tarcisio-Zumbi:**
+- Visual: Terno cinza impecavel, cabelo curto tecnocrata, oculinho de arame, sorriso contido e calculado, prancheta na mao com graficos
+- Menor mas mais rapido e preciso
+- Luta com dados e estatisticas -- arremessa graficos de pizza que cortam como lâminas
+- Frase recorrente: "Os dados indicam... minha superioridade..."
 
-**Boss: XANDAO -- O JUIZ SUPREMO**
+**Ataques combinados (quando os dois atacam o jogador ao mesmo tempo):**
+1. **"Coligacao Forçada!"** -- Os dois avancam juntos por 3s, depois se empurram e voltam a brigar entre si.
+2. **"Palanque Duplo!"** -- Cada um monta um palanque. O som dos dois discursos simultaneos causa dano sonico em area.
 
-**Este e o boss mais esperado do jogo. O Xandao e LENDARIO.**
+**Dialogos:**
 
-Alexandre de Moraes -- careca reluzente, toga preta esvoaçante, biceps estourando por baixo do tecido, pescoço de lutador de MMA, martelo judiciario do tamanho de uma coluna do STF. Ele nao e zumbi. Ele e PIOR que zumbi. Ele e um ser que transcendeu a morte e a vida para se tornar a encarnacao da ORDEM JUDICIAL ABSOLUTA.
+> FLAVIO (ao ver Ze): "Cidadao! Voce vota em mim ou nele?"
+> TARCISIO: "A pergunta correta e: quem tem melhor indice de aprovacao?"
+> ZE: "Eu voto em SAIR DAQUI VIVO."
+> FLAVIO: "Voto nulo? Voce e PARTE DO PROBLEMA!"
+> TARCISIO: "Estatisticamente, voto nulo e irrelevante. Assim como voce, cidadao."
 
-**Visual detalhado (estilo Andre Guedes):**
-- Careca tao lustrosa que reflete a luz verde do Congresso
-- Toga com mangas rasgadas nos biceps (os bracos sao grossos demais)
-- Martelo de juiz proporcional ao ego: 2 metros de comprimento
-- Olhos que brilham dourado (nao verde como os zumbis -- ele esta num nivel diferente)
-- Quando anda, o chao treme. Literalmente. A tela balanca.
-- Atras dele, uma aura de documentos judiciais orbita como asteroides
-
-**Ataques do Boss:**
-
-1. **"MONOCRATICAMENTE!"** -- Bate o martelo no chao. Onda de choque circular. Projeteis voam em todas as direcoes (mandados de prisao em forma de papel).
-2. **"CENSURA!"** -- Aponta pra uma area. Tudo naquela area DESAPARECE por 5 segundos (inimigos, itens, ate partes do cenario). O jogador fica cego na area censurada.
-3. **"INQUERITO INFINITO!"** -- Marca o jogador. Por 10 segundos, nao importa pra onde Ze corra, Xandao SABE onde ele esta. Seta brilhante aponta pro jogador. Zumbis proximos vao na direcao do jogador.
-4. **"DERRUBA A REDE!"** -- A HUD do jogo some por 5 segundos. Sem barra de vida. Sem score. Sem minimapa. O jogador fica as cegas. Referencia a Xandao derrubando o Twitter/X.
-5. **Fase 2 (50% HP): "XANDAQUISTAO!"** -- Xandao invoca uma arena circular de documentos ao redor de si e do jogador. Ninguem entra, ninguem sai. Luta 1v1 ate a morte (ou ate quebrar a barreira atacando os pontos fracos -- documentos com a assinatura "Dr. Necrose" misturados).
-
-**Dialogos do Boss:**
-
-> XANDAO (ao aparecer): "Cidadao. Voce esta em FLAGRANTE desrespeito ao Artigo 5o, inciso XXXVI da Constituicao Federal. A pena e IMEDIATA."
-> ZE: "Que artigo? Que flagrante? Eu to so tentando nao morrer!"
-> XANDAO: "Tentativa de nao morrer sem autorizacao judicial. MONOCRATICAMENTE, eu decreto sua prisao preventiva."
-> ZE: "Isso nem faz sentido!"
-> XANDAO: "Nao precisa fazer sentido. Eu sou o STF."
-
-> XANDAO (a 50% HP): "Voce... resiste? Interessante. Vou ter que abrir um INQUERITO sobre voce. A investigacao levara... PARA SEMPRE."
-> XANDAO (derrotado): "Voce me derrotou. Mas eu... RECORRO. Vou recorrer... ao plenario... e o plenario vai... *cai de joelhos* ...votar... a favor..."
-
-**Revelacao narrativa da Fase 4:**
-
-Nos escombros do STF, Ze encontra mais documentos do "Dr. Necrose". Desta vez, um mapa. O mapa mostra que a Emenda 666 foi apenas a PRIMEIRA fase de um plano maior: o **"Projeto Reeleicao Eterna"**. O objetivo: criar um sistema onde os mortos continuam no poder LITERALMENTE. E o epicentro final nao e o Congresso -- e o **Palacio da Alvorada**, residencia oficial do presidente. E la que o Dr. Necrose esta.
-
-Dona Marta reage:
-
-> DONA MARTA: "O Alvorada. Eu limpei aquele palacio uma vez. So uma vez. Me mandaram embora no mesmo dia porque eu limpei uma mancha no carpete que era na verdade um mapa de esquema de corrupçao. Eles precisavam daquela mancha."
-> ZE: "Dona Marta, a Rodoviaria fica pro outro lado. A evacuacao e pra la."
-> DONA MARTA: "Eu sei, meu filho. Mas se a gente nao parar o Dr. Necrose, nao vai ter evacuacao pra NINGUEM. Essa nevoa vai se espalhar pelo Brasil inteiro."
-> ZE: "Entao temos que ir pro Alvorada."
-> DONA MARTA: "Sim."
-> ZE: "Passando pelo Setor Comercial Sul. Que e basicamente uma favela vertical de concreto cheia de zumbi."
-> DONA MARTA: "Sim."
-> ZE: "Maravilha. Pelo menos nao e segunda-feira. Ah, espera. E segunda-feira."
+> FLAVIO (derrotado primeiro): "O PAI... VAI SABER... que voce... fez isso..." *celular toca: audio do Bolsonaro-Zumbi gemendo*
+> TARCISIO (derrotado primeiro): "Os numeros... nao mentem... eu perdi... por margem... de erro..."
 
 ---
 
-## FASE 5: "SELVA DE PEDRA"
-### Locacao: Setor Comercial Sul (SCS) + Rodoviaria do Plano Piloto + Torre de TV
+## FASE 5 -- CIDADAO: "O BANCO DOS MORTOS"
+### Locacao: Sede do Banco Master (SP) + Gabinete do STF (Brasilia)
+### Evento real: Escandalo do Banco Master / Vorcaro / Familia Moraes
+
+**Contexto real incorporado:**
+- Banco Master: maior fraude bancaria da historia brasileira
+- Daniel Vorcaro (controlador) preso na Operacao Compliance Zero (nov 2025)
+- Pagamento de R$ 80 milhoes ao escritorio de Viviane Barci de Moraes (esposa do Xandao)
+- Vorcaro usou jatinho de luxo com Moraes em pelo menos 8 ocasioes
+- Pagamentos a Michel Temer (R$10mi), Meirelles (R$18,5mi), Mantega (R$14mi)
+- R$ 22 bilhoes bloqueados
 
 **Narrativa de abertura:**
 
-> ZE (narracao): "O Setor Comercial Sul de Brasilia e o que acontece quando voce pega o brutalismo do Niemeyer e entrega pra construtora mais barata do leilao. Predios de concreto empilhados como caixas de sapato, galerias subterraneas que cheiram a mofo, e um labirinto de lojinhas que vendem de tudo: relogio falsificado, capinha de celular, conserto de tela, advogado trabalhista, e agora, aparentemente, morte por zumbi."
+> ZE (narracao): "O Banco Master. Oitenta milhoes pro escritorio da mulher do Xandao. Oitenta. Milhoes. Eu levo 37 anos pra ganhar isso. O Vorcaro pagou como se fosse gorjeta. E o Moraes -- o mesmo Moraes que derrubou o Twitter, prendeu o Bolsonaro, e se acha o guardiao da democracia -- tava voando no jatinho do cara. Oito vezes. OITO. Sabe o que eu voo oito vezes? Escada do predito. De elevador."
+
+> "A infeccao zumbi E dinheiro. Sempre foi. A nevoa verde e o cheiro de nota de cem apodrecendo nos tuneis de Brasilia."
 
 **Cenario:**
-- Setor Comercial Sul: predios comerciais apertados, galerias subterraneas, becos escuros, lixo acumulado
-- Rodoviaria do Plano Piloto visivel ao longe: estrutura de concreto imenso, onibus abandonados, barricadas militares
-- Torre de TV de Brasilia: torre de telecomunicacoes de 230 metros, piscando vermelho no topo (sinal de emergencia)
-- Mudanca de tom: sai da monumentalidade do poder e entra no Brasil REAL. Comércio popular, ambulantes, caos urbano.
+- Sede do Banco Master em SP: predio de vidro espelhado, interior luxuoso agora destruido
+- Cofre central no subsolo: porta de aco aberta, montanhas de dinheiro VERDE (contaminado)
+- Transicao para Brasilia: gabinete do STF, escritorios de advocacia do Lago Sul
+- O dinheiro literalmente se move -- notas de real infectadas rastejam como insetos verdes
 
-**Inimigos -- MUDANCA RADICAL:**
+**Inimigos:**
 
-A partir desta fase, os inimigos nao sao mais so politicos-zumbi. A nevoa verde infectou a POPULACAO CIVIL. Agora o Ze enfrenta versoes zumbificadas de brasileiros comuns. E esse e o momento mais sombrio do jogo -- porque agora o inimigo e GENTE COMO ELE.
-
-| Inimigo | Quantidade | Comportamento |
+| Inimigo | Descricao | Comportamento |
 |---|---|---|
-| **Camelô-Zumbi** | Muitos | Ambulante que ainda tenta vender. Grita "OLHA A PROMOÇAO! TUDO POR DOOOIS REAAAIS!" enquanto avanca. Arremessa mercadorias (capinhas de celular, relogios) como projeteis. |
-| **Motoqueiro de App** | Medio | Rapido. Vem de moto. Nao desvia de nada. A mochila termica nas costas vem cheia de... bom, melhor nao pensar. Grita: "ENTREGA! PEDIDO 666!" |
-| **Cobrador de Onibus** | Medio | Bloqueiam passagens. Nao deixam o jogador passar sem "pagar" (atacar 3 vezes). "PASSA O CARTAO, PASSA O CARTAO!" |
-| **Eleitor Fanatico** (variante) | Raro | Zumbi que grita slogans de campanha. Pode ser de QUALQUER candidato. Todos igualmente agressivos. "VOTA NO MEU! VOTA NO MEU!" Nao ha distincao entre os lados -- todos sao zumbis. |
-| **Banqueiro-Zumbi** | Raro | O Vorcaro. Terno italiano, maleta de dinheiro, celular na mao mostrando contatos. Corrompe outros zumbis (2x mais rapidos e fortes por 5s). Frase: "Fui mal assessorado!" |
+| **Banqueiro-Zumbi** | Terno italiano, relogio de R$50mil, sorriso de vendedor. Maleta de dinheiro. | Corrompe outros zumbis (ficam 2x mais fortes). Frase: "Fui mal assessorado!" |
+| **Lavador de Dinheiro-Zumbi** | Funcionario do banco. Maquina de lavar nas costas (literal). | Atira notas de dinheiro contaminadas. Dano + infeccao temporaria (tela verde por 2s). |
+| **Auditor-Zumbi** | Contador infectado. Calculadora como arma. | Ataque fraco mas grita numeros que confundem: "22 BILHOES! 80 MILHOES! BALANCO NEGATIVO!" (tela treme). |
+| **Advogado de Defesa-Zumbi** | Terno, pasta, sorriso tranquilizador. | Cria escudos legais nos outros zumbis. "Meu cliente e inocente! Meu cliente e inocente!" |
 
-**EVENTO ESPECIAL: A BARRICADA DA RODOVIARIA**
+**Evento especial: O JATINHO DE VORCARO**
 
-Ao chegar na Rodoviaria, Ze encontra uma barricada militar. Soldados VIVOS (os unicos do jogo) guardam a passagem. Mas nao deixam ninguem passar sem autorizacao.
+Ze encontra um hangar no aeroporto privado. Dentro, o jatinho de luxo de Vorcaro. Nos assentos, OITO fantasmas verdes representando as oito viagens de Moraes. Cada fantasma precisa ser derrotado pra liberar a passagem. Cada um conta um detalhe do esquema ao morrer:
 
-> SARGENTO: "Cidadao, esta area esta sob controle do Exercito. Ninguem entra, ninguem sai."
-> ZE: "Mas eu preciso passar! A evacuacao e aqui!"
-> SARGENTO: "A evacuacao foi cancelada. Ordem do Planalto. Digo... do que sobrou do Planalto."
-> ZE: "Cancelada?! E a gente faz o que?!"
-> SARGENTO: "Aguardar instrucoes. Previsao de novas instrucoes: indeterminada."
-> ZE: "Voce ta me dizendo que a gente ta PRESO em Brasilia?"
-> SARGENTO: "Estamos garantindo o perimetro, cidadao. E uma medida temporaria."
-> DONA MARTA: "Temporaria igual imposto. Nunca acaba."
+> FANTASMA 1: "Primeira viagem... maio... destino: sigilo..."
+> FANTASMA 4: "Quarta viagem... reuniao antes do julgamento..."
+> FANTASMA 8: "Oitava viagem... os documentos... estao no cofre..."
 
-O jogador descobre que nao ha evacuacao. A unica saida e ir ao Alvorada e parar o Dr. Necrose.
+**Boss: VORCARO-ZUMBI -- O BANQUEIRO DAS SOMBRAS**
 
-**Boss: O CANDIDATO ETERNO**
+**Visual:**
+- Terno sob medida que custa mais que a casa do Ze
+- Cabelo perfeitamente penteado mesmo depois de morto
+- Celular com a lista de contatos de TODA a republica (politicos, juizes, ministros)
+- A cada toque do celular, um nome aparece: TEMER, MEIRELLES, MANTEGA, ACM NETO...
+- Sentado atras de uma mesa de mogno no cofre do banco, montanhas de dinheiro verde ao redor
+- Os dedos nao param de contar notas -- mesmo zumbificado
 
-Ele aparece no topo da Torre de TV, transmitindo um discurso para toda Brasilia (alto-falantes da torre). Sua voz atrai zumbis de todas as direcoes. O jogador precisa subir a torre enquanto ondas de zumbis sobem por tras.
+**Ataques:**
+1. **"Investimento Agressivo!"** -- Arremessa maletas de dinheiro que explodem em notas cortantes.
+2. **"Compliance Zero!"** -- O nome da operacao real. Cria uma onda de choque financeira que destrói defesas do jogador.
+3. **"Contato VIP!"** -- Disca um numero no celular. Um zumbi-politico especial aparece (versao mini de Temer, Meirelles, ou Mantega -- aleatorio).
+4. **"Fui Mal Assessorado!"** -- Escudo de negacao. Enquanto o escudo ta ativo, Vorcaro se cura. O jogador precisa quebrar o escudo atacando os "assessores" ao redor.
+5. **Fase 2 (50% HP):** O dinheiro do cofre GANHA VIDA. Notas de R$100 formam um golem de dinheiro que protege Vorcaro. Referencia visual: a criatura e feita de R$ 22 bilhoes em notas.
 
-**Visual:** 3x o tamanho de um zumbi normal. Sorriso de orelha a orelha (literalmente -- a boca se estende ate as orelhas). Cabelo pompadour impossivel que desafia a gravidade. Faixa de "CANDIDATO" no peito com 47 adesivos de campanha de partidos diferentes. Botoes em cada lapela. Santinhos chovem ao redor dele como confete.
+**Dialogos:**
 
-**Ataques do Boss:**
-1. **"VOTA EM MIM!"** -- Abre os bracos e grita. Onda sonica que empurra o jogador pra tras e atrai zumbis.
-2. **"PROMESSA DE CAMPANHA!"** -- Arremessa santinhos gigantes que explodem no chao (area de dano).
-3. **"COMICIO RELAMPAGO!"** -- Planta um palanque no chao. Enquanto o palanque existir, zumbis comuns ficam mais fortes. O jogador precisa destruir o palanque.
-4. **"SEGUNDO TURNO!"** -- Ao ser derrotado com HP zero, levanta com 25% HP. Jingle distorcido. "VOLTO EM QUATRO ANOS!" So morre de verdade na segunda vez.
+> VORCARO (ao aparecer): "Cidadao. Todo mundo tem um preco. Qual e o seu?"
+> ZE: "Meu salario de servidor publico nao chega nem perto do que voce pagou pra mulher do Xandao."
+> VORCARO: "Oitenta milhoes? Isso foi honorario advocaticio. Perfeitamente legal."
+> ZE: "Legal igual o jatinho?"
+> VORCARO: "...Proximo assunto."
 
-**Dialogos do Boss:**
+> VORCARO (derrotado): "O dinheiro... nao morre... ele so... muda de conta..."
 
-> CANDIDATO ETERNO (ao aparecer): "CIDADAOS DE BRASILIA! Nao tenham medo! EU estou aqui! Eu SEMPRE estive aqui! E eu SEMPRE VOU ESTAR aqui! Este e o meu CENTESIMO mandato e eu prometo: DESTA VEZ vai ser diferente!"
-> ZE: "Diferente como? Voce ta literalmente em cima de uma torre gritando pra zumbis!"
-> CANDIDATO ETERNO: "Sao ELEITORES, nao zumbis! E eles me AMAM!"
-> CANDIDATO ETERNO (ao morrer pela primeira vez): "NAO! RECONTAGEM! FRAUDE! PEÇAM RECONTAGEM! VOTO... IMPRESSO..."
-> CANDIDATO ETERNO (ao morrer definitivamente): "Resultado final: Candidato Eterno... zero... votos... *cai da torre em câmera lenta, chuva de santinhos*"
+**Revelacao narrativa:** No cofre de Vorcaro, Ze encontra o MAPA COMPLETO da infeccao. A nevoa verde nao se espalha aleatoriamente -- ela segue o DINHEIRO. Cada pagamento ilicito criou um polo de infeccao. O 8 de janeiro foi o gatilho, mas o combustivel e a corrupcao financeira que permeia todos os poderes.
 
-**Transicao para a Fase 6:**
-
-Com a torre silenciada, os alto-falantes param. Mas a nevoa verde ainda pulsa, vindo do Lago Paranoa, na direcao do Palacio da Alvorada. Ze olha para o horizonte.
-
-> ZE: "O Alvorada fica do outro lado do Lago Paranoa."
-> DONA MARTA: "Eu conheço um caminho pela margem. Vai ser feio."
-> ZE: "Dona Marta, a essa altura, se nao for feio, eu desconfio."
+> DONA MARTA: "Eu sempre disse: dinheiro sujo contamina tudo que toca."
+> ZE: "E literal agora."
+> DONA MARTA: "Sempre foi literal, meu filho. So que agora eles ficam verdes por fora tambem."
 
 ---
 
-## FASE 6: "A ALVORADA DOS MORTOS"
-### Locacao: Lago Paranoa (margem) + Palacio da Alvorada
+## FASE 6 -- CIDADAO: "A URNA"
+### Locacao: Brasilia inteira -- convergencia no TSE (Tribunal Superior Eleitoral)
+### Evento real: Eleicao Presidencial de Outubro de 2026
 
 **Narrativa de abertura:**
 
-> ZE (narracao): "O Palacio da Alvorada. Residencia oficial do presidente da Republica. Projetado pelo Niemeyer pra ser a coisa mais bonita de Brasilia. Colunas brancas, piscina, jardins. O tipo de lugar que voce ve no Jornal Nacional e pensa: 'Pago meus impostos pra isso.' Pois agora, cercado de nevoa verde e zumbis, eu olho pro Alvorada e penso a mesma coisa, mas com mais raiva."
+> ZE (narracao): "Outubro de 2026. Eleicao. No meio do apocalipse zumbi. Porque no Brasil, nem o fim do mundo cancela eleicao. Teve eleicao na ditadura. Teve na pandemia. Teve na hiperinflacao. Vai ter no apocalipse. Os brasileiros vao votar nem que seja o ultimo ato antes de virar zumbi. E honestamente? Eu tambem. Porque se eu sobrevivi ate aqui, eu pelo menos quero ter o direito de reclamar do resultado."
 
 **Cenario:**
-- Margem do Lago Paranoa: vegetacao do cerrado queimada, agua verde-turva, pontes quebradas, barcos virados
-- Palacio da Alvorada ao fundo: colunas brancas agora cobertas de veias verdes pulsantes, como um organismo vivo
-- O ceu esta no nivel mais vermelho-escuro do jogo. Quase noite. A lua e verde.
-- Capela do Alvorada (capela real que existe no complexo): porta aberta, luz verde de dentro
+- Brasilia reconstruida parcialmente: barricadas, zonas verdes (infectadas) e zonas limpas
+- TSE no centro: ultimo predio totalmente funcional, protegido por militares VIVOS
+- Filas imensas de sobreviventes pra votar -- algumas filas tem zumbis misturados (ninguem notou porque ja estavam la antes da infeccao)
+- Telas gigantes mostrando apuracao em tempo real
+- Carros de som de TODOS os candidatos tocando jingles simultaneamente -- cacofonia total
 
-**Inimigos -- A HORDA FINAL:**
+**Mecanica da fase:** Fase de DEFESA. Ze precisa proteger o TSE enquanto a votacao acontece. Ondas de zumbis de TODOS os tipos anteriores convergem -- cada onda representa uma forca politica tentando IMPEDIR a eleicao.
 
-| Inimigo | Quantidade | Comportamento |
+**Inimigos:** TODOS os tipos anteriores voltam em ondas mistas. Mais:
+
+| Inimigo | Descricao | Comportamento |
 |---|---|---|
-| **Todos os tipos anteriores** | Hordas massivas | Todos os inimigos do jogo voltam em ondas combinadas. E a horda definitiva. |
-| **Guarda Presidencial Zumbi** | Elite | Armados, rapidos, organizados. Os unicos zumbis que se movem em formacao. Equipamento militar completo. |
-| **Zumbi-Ministro de Estado** | Elite | Cada um com poder de um ministerio: o da Saude cura outros zumbis, o da Defesa e blindado, o da Fazenda joga moedas explosivas. |
+| **Miliciano-Zumbi** | Armado, violento, sem identificacao. | Rapido e perigoso. Tenta destruir urnas. |
+| **Troll de Internet-Zumbi** | Gordo, palido, teclado como arma. | Ataque a distancia: arremessa fake news que confundem NPCs aliados (param de ajudar por 3s). |
+| **Candidato-Generico-Zumbi** | Pode ser de QUALQUER partido. Faixa de candidato, sorriso. | Tenta ENTRAR no TSE pra se registrar. Se entrar, rouba votos (barra de progresso da eleicao recua). |
 
-**CONFRONTO FINAL: Dr. Necrose**
+**Boss Final: O XANDAO -- O GUARDIAO CORROMPIDO**
 
-Dentro do Palacio da Alvorada, Ze encontra o saguao presidencial transformado num laboratorio grotesco. No centro, atras de uma mesa de escritorio que era do presidente, esta o **Dr. Necrose**.
+Alexandre de Moraes. O homem mais poderoso e mais controverso do Brasil. Guardiao da Constituicao. Derrubou o Twitter. Prendeu Bolsonaro. Mas tambem voou no jatinho do Vorcaro. Recebeu 80 milhoes no escritorio da esposa.
 
-**Visual do Dr. Necrose (estilo Andre Guedes, o design mais elaborado do jogo):**
+No jogo, Xandao nao e vilao nem heroi. Ele e a ENCARNACAO DA AMBIGUIDADE DO PODER. Ele protegeu a democracia com um metodo que muitos consideram antidemocratico. Ele e o paradoxo final.
 
-Ele parece um funcionario publico que nunca saiu do escritorio. LITERALMENTE. Terno cinza que nao e terno -- e a pele dele que ficou cinza de tanto tempo sob luz fluorescente. Gravata que e na verdade uma veia pulsante. Oculos fundo-de-garrafa com olhos enormes e amarelos atras. Magro ao extremo -- esqueletico. Dedos longos e finos que digitam no ar como se tivesse um teclado invisivel. Cabelo ralo penteado pra tras com brilhantina que e uma substancia verde. Cracha do Congresso de 1988 ainda pendurado. Ele tem RAIZES que saem dos pes e vao ate o chao, conectando-o ao Palacio, ao Congresso, a BRASILIA INTEIRA. Ele e o sistema nervoso da Emenda 666.
+E ele nao e zumbi. Ele esta ALEM dos zumbis. A nevoa verde nao o infectou -- ele a CONTROLA. Ou pensa que controla.
 
-**Revelacao:**
+**Visual (estilo Andre Guedes, LENDARIO):**
+- Careca reluzente que reflete a nevoa verde
+- Toga preta com mangas rasgadas nos biceps (grossos demais)
+- Martelo de juiz do tamanho de uma coluna do STF
+- Olhos dourados (nao verdes -- ele e diferente)
+- Documentos judiciais orbitam ao redor dele como asteroides
+- A tela treme quando ele anda
+- No peito da toga, meio escondido: um pin do Banco Master
 
-> DR. NECROSE: "Ah. O cidadao. Eu esperava por voce. Bom, eu esperava por ALGUEM. Ha 38 anos eu espero alguem prestar atencao."
+**Ataques:**
+1. **"MONOCRATICAMENTE!"** -- Bate o martelo. Onda de choque circular. Mandados de prisao voam como projeteis.
+2. **"CENSURA!"** -- Aponta pra uma area. Tudo DESAPARECE por 5s. O jogador fica cego naquela zona. Referencia a censura do Twitter/X.
+3. **"INQUERITO INFINITO!"** -- Marca o jogador. Por 10s, zumbis sabem exatamente onde Ze esta. Seta brilhante no jogador.
+4. **"DERRUBA A REDE!"** -- A HUD do jogo some. Sem barra de vida, sem minimapa, sem score. O jogador joga as cegas por 5s.
+5. **"COMPLIANCE ZERO!"** -- Invoca fantasmas do Banco Master que atacam em espiral.
+6. **Fase 2 (50% HP): "XANDAQUISTAO!"** -- Arena circular de documentos. Luta 1v1 fechada. Ninguem entra, ninguem sai. Entre os documentos da barreira, alguns tem o logo do Banco Master -- sao os pontos fracos.
 
-> ZE: "Quem e voce?"
+**Dialogos:**
 
-> DR. NECROSE: "Eu sou o assessor que escreveu a Emenda 666. E a 665. E a 664. E a 400. E a 300. Eu escrevi TODAS as emendas, cidadao. Todas as leis. Todos os pareceres. Todos os projetos. Ninguem le o que vota. Ninguem le o que assina. Entao EU escrevo. E ninguem questiona. Porque ninguem sabe que eu existo."
+> XANDAO (ao aparecer): "Cidadao. Voce chegou ate aqui. Impressionante. Mas a eleicao so acontece com MINHA autorizacao."
+> ZE: "A eleicao e do POVO. Nao sua."
+> XANDAO: "O povo nao sabe o que e melhor pro povo. Eu sei. Eu SEMPRE soube."
+> ZE: "E o Vorcaro tambem sabia? Por isso os 80 milhoes?"
+> XANDAO: *pausa* "...Isso esta sob sigilo judicial."
 
-> ZE: "Voce... voce zumbificou Brasilia inteira?"
+> XANDAO (a 50% HP): "Voce... questiona... a AUTORIDADE? Eu PROTEGI este pais! Eu derrubei as redes de odio! Eu prendi os golpistas!"
+> ZE: "E voou no jatinho do banqueiro. OITO VEZES."
+> XANDAO: "...MONOCRATICAMENTE, eu decreto que esta conversa esta ENCERRADA."
 
-> DR. NECROSE: "Zumbifiquei? Nao, cidadao. Eu so FORMALIZEI o que ja era verdade. Eles ja eram mortos-vivos. Ja se reelegiam infinitamente. Ja devoravam os recursos. Ja andavam em hordas sem consciencia. A Emenda 666 so tirou a metafora. Agora eles sao LITERALMENTE o que sempre foram."
+> XANDAO (derrotado): "O poder... nao e... bom... nem mau... o poder e... necessario... e quem tem... nunca... quer... largar..." *martelo cai, toga se desfaz em documentos, a careca para de brilhar*
 
-> ZE: "Voce e louco."
+**O DILEMA FINAL DO CIDADAO:**
 
-> DR. NECROSE: "Eu sou eficiente. Em 38 anos de anonimato, eu aprendi que o verdadeiro poder nao e de quem vota. E de quem escreve o que e votado. E agora, com a Emenda 666 e o Projeto Reeleicao Eterna, ninguem nunca mais vai sair do poder. Nem os mortos. Nem eu."
+Com Xandao derrotado, a nevoa verde comeca a dissipar. A eleicao pode acontecer. Mas Ze enfrenta a ultima escolha:
 
-> DONA MARTA: "Entao voce e o estagiario que ficava nos corredores de madrugada."
+**Opcao A -- VOTAR:** Ze entra na fila. Vota. Aceita o resultado, seja ele qual for. A democracia funciona -- imperfeita, suja, lenta, mas funciona. A nevoa verde se dissipa de vez.
 
-> DR. NECROSE: "Estagiario. Terceirizado. Assessor temporario. Colaborador eventual. Eu tive 47 cargos diferentes e nenhum deles tinha nome real. Porque cargos sem nome nao tem limite de mandato. Eu sou eterno, cidadao. Eu sou o SISTEMA."
+**Opcao B -- DESTRUIR AS URNAS:** Ze percebe que TODOS os candidatos estao contaminados. Nenhum merece o voto. Destrói as urnas. A eleicao e cancelada. A nevoa verde diminui mas nao desaparece. O Brasil fica num limbo.
 
-**Boss Final: DR. NECROSE, O SISTEMA**
+**Opcao C -- CANDIDATAR-SE:** Ze, o servidor publico que nunca quis nada com politica, se registra como candidato. "Se todos sao ruins, talvez alguem normal seja menos ruim." A nevoa verde pisca, confusa. Nem ela esperava isso.
 
-**Fase 1:** Dr. Necrose nao luta diretamente. Ele invoca burocracias. Pilhas de papel se levantam como golems. Formularios voam como morcegos. Carimbos gigantes caem do teto. O jogador precisa se esquivar da burocracia enquanto se aproxima dele.
+---
 
-**Fase 2 (50% HP):** As raizes dele se expandem. O Palacio inteiro PULSA. Necrose se conecta a Brasilia e invoca zumbis de TODOS os tipos em ondas rapidas. O jogador precisa cortar as raizes (4 pontos no cenario) enquanto sobrevive as hordas.
+## FINAIS DO MODO CIDADAO
 
-**Fase 3 (25% HP):** Necrose revela sua forma final: ele nao e uma pessoa, e um ARQUIVO. Um documento vivo. Seu corpo se desfaz em milhares de paginas de legislacao que formam uma criatura enorme -- o **LEVIATÃ BUROCRATICO**. Um monstro feito de papel, carimbo e tinta vermelha, com 47 bocas que gritam artigos juridicos.
+### Final 1: "O VOTO" (Opcao A)
+Ze vota. Volta pra casa. O sol nasce. A nevoa se dissipa.
 
-> LEVIATA BUROCRATICO: "ARTIGO 1! ARTIGO 2! ARTIGO 3! ARTIGO 666! A LEI E IMUTAVEL! A LEI E ETERNA! A LEI SOU EU!"
+> ZE: "Eu votei. Nao sei se vai mudar alguma coisa. Mas pelo menos ninguem pode dizer que eu nao tentei."
+> DONA MARTA: "Isso se chama democracia, meu filho."
+> ZE: "Parece mais masoquismo."
+> DONA MARTA: "E a mesma coisa."
 
-**Como derrotar:** O jogador precisa usar a arma tematica da fase -- a **CANETA BICOLOR** (vermelha e azul, a caneta de todo servidor publico brasileiro). A caneta RISCA os artigos do Leviata, anulando-os. Cada artigo riscado enfraquece o monstro. E o cidadao, com uma caneta, derrotando a burocracia. Metafora? Sim. Satisfatorio? MUITO.
+*Texto: "Brasilia foi reconstruida. O Congresso voltou a funcionar. Ninguem aprendeu nada. Mas Ze voltou ao Ministerio do Planejamento. Foi promovido a Assessor de Crises. Salario: o mesmo."*
 
-**Dialogos finais:**
+### Final 2: "O VAZIO" (Opcao B)
+A eleicao e cancelada. Brasilia fica em estado de sitio permanente. A nevoa verde diminui mas volta toda noite.
 
-> DR. NECROSE (forma final): "VOCE NAO PODE ME MATAR! EU SOU A LEI! EU SOU O PROTOCOLO! EU SOU O ARTIGO! EU SOU O SISTEMA!"
-> ZE (riscando o ultimo artigo): "E eu sou o contribuinte que ta CANSADO de ler nas entrelinhas."
+> ZE (olhando Brasilia da janela): "Eu acabei com a eleicao. E agora? Quem governa?"
+> DONA MARTA: "Ninguem. Igual antes. So que agora e oficial."
 
-*O Leviata desmorona. Paginas voam. A nevoa verde comeca a dissipar. O ceu clareia. De laranja-sangue para laranja-amanhecer.*
+*Texto: "Sem eleicao, o Brasil entrou em crise constitucional. O STF assumiu, depois o Exercito, depois ninguem. A nevoa verde ficou. Os moradores de Brasilia se acostumaram. Chamaram de 'o novo normal'."*
 
-**Epilogo do Modo Cidadao:**
+### Final 3: "O CANDIDATO" (Opcao C)
+Ze se candidata. Perde por margem enorme. Mas consegue 847 votos.
 
-Brasilia ao amanhecer. A nevoa se dissipa. Os zumbis caem como marionetes sem fio. Os predios continuam de pe, sujos, rachados, mas de pe.
+> ZE (lendo o resultado): "847 votos. Sao 847 pessoas que acreditaram num servidor publico de bermuda e chinelo."
+> DONA MARTA: "Ou 847 pessoas que votaram errado por acidente."
+> ZE: "Deixa eu ter o momento, Dona Marta."
 
-Ze esta sentado nos degraus do Palacio da Alvorada. Dona Marta ao lado, fumando um cigarro (onde ela conseguiu?). O sol nasce atras do Congresso Nacional -- que pela primeira vez parece so um predio. So concreto. So geometria. Sem brilho verde. Sem gemidos.
-
-> DONA MARTA: "Acabou, meu filho."
-> ZE: "Sera?"
-> DONA MARTA: "..."
-> ZE: "Desculpa. Sei que 'sera' virou trigger depois daquela trend do Zema."
-> DONA MARTA: *ri*
-> ZE: "Dona Marta. A senhora acha que muda alguma coisa? Eles voltam. Sempre voltam. Sem nevoa verde, sem Emenda 666. So na forca do... do que quer que seja que faz politico voltar."
-> DONA MARTA: "Meu filho, eu limpo o Congresso ha 37 anos. Ja vi 8 presidentes. 4 escandalos por ano. 2 CPIs por semestre. E o chao continua sujo no dia seguinte. Eu volto e limpo. Nao porque vai ficar limpo pra sempre. Porque alguem tem que limpar."
-> ZE: "Isso foi poetico demais pra uma faxineira."
-> DONA MARTA: "Poetico e voce sobreviver ao apocalipse com uma vassoura e um chinelo. Vem, vou te pagar um cafe. O Tiao do cachorro-quente sobreviveu. Vi o carrinho dele ali."
-
-*Camera se afasta. Brasilia de cima. Os contornos do aviao do Plano Piloto visiveis. Predios. Parques. Lago. Tudo cinza, tudo rachado, mas tudo DE PE.*
-
-*Texto na tela:*
-
-> "Brasilia foi reconstruida em 6 meses. O Congresso voltou a funcionar em 3 semanas. A Emenda 666 foi revogada. A Emenda 667 foi aprovada no lugar. Ninguem leu o texto. Ninguem nunca le."
-
-> "Ze voltou ao Ministerio do Planejamento. Foi promovido a Assessor de Crises. Primeiro na historia do cargo. Salario: o mesmo."
-
-> "Dona Marta ganhou o Titulo de Cidada Honoraria de Brasilia. A cerimonia foi marcada para o dia 32 de fevereiro."
-
-*Creditos rolam com musica de jingle eleitoral em versao piano melancolico.*
-
-**FIM DO MODO CIDADAO**
+*Texto: "Ze nao ganhou. Mas 847 pessoas votaram nele. O suficiente pra um partido nanico. O suficiente pra fundo eleitoral. O suficiente pra virar meme. E no Brasil, virar meme e o primeiro passo pra virar politico."*
 
 ---
 
@@ -545,470 +550,294 @@ Ze esta sentado nos degraus do Palacio da Alvorada. Dona Marta ao lado, fumando 
 
 ## FICHA DO PROTAGONISTA
 
-**Nome selecionavel (3 opcoes, cada uma com personalidade levemente diferente):**
+**Nome selecionavel (3 opcoes):**
 
-### Opcao A: DEPUTADO GENERICO (O Padrao)
-**Nome:** Waldemir da Silva Neto -- mas todos chamam de "Waldeco"
-**Partido:** PPTB (Partido Pra Todos os Brasileiros -- ficticio, mas suspeitamente plausivel)
+### Opcao A: DEPUTADO WALDECO (O Padrao)
+**Nome completo:** Waldemir da Silva Neto
+**Partido:** PPTB (Partido Pra Todos os Brasileiros)
 **Idade:** 52 anos
-**Background:** Ex-vereador de Taguatinga (cidade-satelite do DF). Dono de 3 lojas de material de construcao. Entrou na politica "pra ajudar a comunidade" (leia-se: pra conseguir licitacoes). Tem um jingle de campanha que ninguem esquece: "Wal-DE-co, Wal-DE-co, vota no 44, e o melhor que tem oco!" Ninguem sabe o que "oco" significa. Nem ele.
+**Background:** Ex-vereador de Taguatinga. Dono de 3 lojas de material de construcao. Entrou na politica "pra ajudar a comunidade" (leia-se: licitacoes).
 
-**Visual (estilo Andre Guedes):**
-- Gordo. Nao "cheinho" -- GORDO. Barriga que precede a entrada dele em qualquer sala por 3 segundos.
-- Terno azul marinho esticado nos ombros, botao da barriga sempre prestes a estourar (chance de estouro: 15% a cada cutscene, liberando barriga peluda)
-- Cabelo tingido de preto (raiz branca visivel)
-- Sorriso largo e vazio, o famoso "sorriso de santinho" -- dentes brancos demais, olhos que nao acompanham
-- Anel de ouro no mindinho, relogio dourado, sapato de bico fino
-- Cracha de deputado ENORME no peito, como um escudo
-- Quando corre, a barriga balanca independentemente do corpo (animacao propria)
+**Visual:** Gordo, terno azul marinho esticado, botao da barriga prestes a estourar, cabelo tingido de preto com raiz branca, sorriso de santinho, anel de ouro no mindinho.
 
-### Opcao B: INFLUENCIADORA POLITICA
+### Opcao B: INFLUENCIADORA THATI
 **Nome:** Thatiane "Thati" Patriota
-**Partido:** LIBERA (ficticio -- slogan: "Libera tudo, menos o meu imposto!")
+**Partido:** LIBERA
 **Idade:** 29 anos
-**Background:** Ex-digital influencer de fitness que migrou pra politica quando percebeu que "textao no Instagram" dava mais like que fotos de academia. Nunca leu a Constituicao inteira mas fez stories resumindo cada artigo em 15 segundos. Eleita com 89.000 votos, todos de seguidores que achavam que era um reality show.
+**Background:** Ex-influencer de fitness que migrou pra politica. Nunca leu a Constituicao inteira mas fez stories resumindo cada artigo em 15 segundos.
 
-**Visual:**
-- Magra, loira platinada, anel light no celular SEMPRE ligado (ilumina ate em cenas escuras)
-- Roupas de grife mas "patrioticas" -- vestido verde-amarelo com estampa de bandeira
-- Unhas posticas gigantes que dificultam pegar armas (animacao de lutar com as unhas)
-- Selfie stick como arma (ou como extensao do braço)
-- Maquiagem perfeita que NUNCA borra, nem no apocalipse
+**Visual:** Loira platinada, ring light sempre ligado, vestido verde-amarelo, selfie stick como arma, maquiagem que NUNCA borra.
 
-### Opcao C: SENADOR VITALICIO
+### Opcao C: SENADOR ARISTOBULO
 **Nome:** Senador Aristobulo Cavalcanti de Melo Neto Filho
-**Partido:** PERENE (ficticio -- slogan: "Se ta funcionando, por que mudar?")
+**Partido:** PERENE
 **Idade:** 74 anos
-**Background:** Senador ha 4 mandatos consecutivos (32 anos). Ninguem lembra a ultima vez que ele perdeu uma eleicao. Nem ele. Tem foto com TODOS os presidentes desde Sarney. Em todas as fotos, ele ta sorrindo da mesma forma. Alguns dizem que ele JA era zumbi antes da Emenda 666.
+**Background:** Senador ha 4 mandatos (32 anos). Foto com todos os presidentes desde Sarney.
 
-**Visual:**
-- Alto, magro, elegante num sentido perturbador -- parece uma estatua de cera que aprendeu a andar
-- Terno de 3 pecas IMPECAVEL (unico personagem cuja roupa nunca fica suja no jogo)
-- Cabelo grisalho brilhante, penteado como se tivesse uma equipe de 5 pessoas dedicada
-- Papada tripla que balanca quando fala (animacao propria)
-- Bengala de marfim (falso) que usa como arma e como simbolo de status
-- Anel signatario no anular com brasao da familia (que ele inventou)
+**Visual:** Alto, magro, elegante perturbador, terno impecavel, papada tripla, bengala de marfim falso.
 
 ---
 
-## ARCO NARRATIVO: A CORRIDA
+## SISTEMA DE POPULARIDADE
 
-A historia do Politico e uma corrida eleitoral DURANTE o apocalipse zumbi. O jogador precisa eliminar zumbis E concorrentes politicos enquanto acumula votos e popularidade. Cada fase e simultaneamente uma fase de combate e uma fase de campanha.
+Barra de 0-100%. Sobe matando zumbis, fazendo discursos, completando missoes. Desce levando dano, fugindo, fazendo coisas imorais. Afeta NPCs, precos, e determina o FINAL.
 
-### Sistema de POPULARIDADE (mecanica central do Modo Politico):
+## DILEMAS MORAIS
 
-O jogador tem duas barras: **HP** (vida) e **POPULARIDADE** (0-100%).
-
-- **Popularidade sobe:** matando zumbis (povo ve voce como heroi), fazendo discursos, completando missoes, encontrando itens de campanha, fazendo promessas aos NPCs sobreviventes
-- **Popularidade desce:** levando dano (parece fraco), fugindo de lutas (covarde), sendo pego fazendo coisas moralmente questionaveis, quebrando promessas
-- **Popularidade afeta tudo:** NPCs te ajudam ou te ignoram, zumbis te temem ou nao, lojas cobram mais ou menos, e principalmente -- DETERMINA O FINAL
-
-### Sistema de DILEMAS MORAIS:
-
-Em cada fase, o jogador enfrenta pelo menos um dilema onde precisa escolher entre:
-- **A) Opcao "Certa" mas Impopular** -- ajuda pessoas, perde recursos, demora mais
-- **B) Opcao "Errada" mas Popular** -- sacrifica outros, ganha vantagem, parece forte
-- **C) Opcao "Politica"** -- nao resolve nada, agrada todo mundo superficialmente, adia o problema
-
-Cada escolha afeta a Popularidade e o final do jogo.
-
-### Estrutura em 3 Atos:
-
-**ATO 1 (Fases 1-2): A OPORTUNIDADE** -- O politico ve no apocalipse uma chance de se eleger. Tom de comedia politica com horror no fundo.
-
-**ATO 2 (Fases 3-4): A CAMPANHA** -- A campanha fica suja. Concorrentes aparecem. Dilemas ficam mais dificeis. Tom de thriller politico com acao.
-
-**ATO 3 (Fases 5-6): A ELEICAO** -- O politico confronta o que se tornou. Os finais dependem das escolhas. Tom de tragedia satirica ou comedia triunfante, dependendo do jogador.
+Cada fase tem pelo menos um dilema com 3 opcoes:
+- **A) Certa mas Impopular** -- ajuda pessoas, perde recursos
+- **B) Errada mas Popular** -- sacrifica outros, ganha vantagem
+- **C) Politica** -- nao resolve nada, agrada superficialmente
 
 ---
 
-## FASE 1: "O OPORTUNISTA"
-### Locacao: Ceilandia (cidade-satelite do DF) + periferia de Brasilia
+## FASE 1 -- POLITICO: "O OPORTUNISTA NO ACAMPAMENTO"
+### Locacao: Acampamento do QG + Esplanada
+### Evento real: 8 de Janeiro de 2023 (perspectiva do politico)
 
 **Narrativa de abertura:**
 
-*Tela preta. Jingle de campanha tocando num radio AM com chiado.*
+> WALDECO: "Dia 8 de janeiro eu tava no acampamento do QG. Nao porque eu acreditava na intervencao militar. Porque tinha 5.000 eleitores concentrados num so lugar e eu queria distribuir santinho. Ai a nevoa verde chegou. Ai o povo virou zumbi. Mas eu vi uma coisa que ninguem mais viu: OPORTUNIDADE. Porque se eu fosse o unico politico VIVO lutando no meio do caos... quem que o povo ia lembrar na proxima eleicao?"
 
-> WALDECO (narracao -- se o jogador escolheu ele): "A noite da Emenda 666, eu tava em Ceilandia. Fazendo campanha. Distribuindo santinho. Apertando mao. Prometendo asfalto. O basico. Ai a nevoa verde chegou e o comicio virou correria. Mas enquanto todo mundo corria EMBORA dos zumbis, eu vi uma coisa que ninguem mais viu: uma OPORTUNIDADE."
+**Cenario:** Mesmo da Fase 1 do Cidadao, mas visto da perspectiva do politico. O Waldeco nao esta fugindo -- esta fazendo CAMPANHA no meio do apocalipse.
 
-*Som de gritos, confusao, zumbis gemendo ao fundo.*
+**Mecanica exclusiva:** Waldeco pode RECRUTAR manifestantes nao-infectados como "cabos eleitorais" em troca de Popularidade. Cada civil recrutado luta por ele por 30s.
 
-> WALDECO: "Porque pensa comigo: se Brasilia ta infestada de zumbi, e eu sou o unico politico VIVO lutando contra eles... quem que o povo vai votar pra presidente? QUEM?"
+**DILEMA MORAL #1: OS REFUGIADOS DO QG**
 
-*Pausa.*
+50 manifestantes estao presos no acampamento cercados por zumbis.
 
-> WALDECO: "Exatamente."
+**A)** Salvar todos. Batalha dificil. Popularidade +15. Sem recursos extras.
+**B)** Salvar so os que prometem votar nele. Facil. Popularidade +5. Recursos dos nao-salvos.
+**C)** Discursar pro grupo prometendo salvacao. Sair de fininho. Voltar depois com cameras. Popularidade +20 (pela cobertura). Mas os refugiados percebem e na Fase 4, alguem conta.
 
-**Cenario:**
-- Ceilandia: casas populares, ruas sem asfalto (ironia -- ele prometia asfalto), feiras livres destruidas
-- Comite de campanha do Waldeco (uma loja de material de construcao com faixa "WALDECO 44")
-- Contraste visual com o Plano Piloto: aqui nao tem Niemeyer, nao tem monumentalidade. E o Brasil real.
-- Ceu amarelo-escuro, nevoa verde mais rala que no centro (a infeccao chegou mas ta no inicio)
+**Boss: O GENERAL DE PIJAMA (mesmo da versao Cidadao)**
 
-**Inimigos:**
+Mas com dialogo diferente:
 
-| Inimigo | Quantidade | Comportamento |
+> GENERAL: "Deputado Waldeco! Voce veio nos libertar!"
+> WALDECO: "Eu vim fazer campanha. Libertar e efeito colateral."
+
+---
+
+## FASE 2 -- POLITICO: "VISITA AO PRESO"
+### Locacao: Condominio Solar de Brasilia + Casa de Bolsonaro
+### Evento real: Prisao de Bolsonaro (perspectiva do politico oportunista)
+
+**Narrativa de abertura:**
+
+> WALDECO: "Bolsonaro preso. O maior cabo eleitoral da direita, trancado numa mansao do Lago Sul com tornozeleira eletronica. Metade do Brasil quer soltar ele. Metade quer que apodreça. E EU quero o APOIO dele. Porque numa eleicao, o apoio de um preso vale mais que o de um livre. Preso vira martir. Martir vira voto."
+
+**Mecanica da fase:** Waldeco precisa ENTRAR na casa de Bolsonaro para conseguir uma foto com ele (prova de apoio). O percurso e infestado. A PF cerca o condominio. Os apoiadores da vigilia criam caos.
+
+**DILEMA MORAL #2: A FOTO COM O PRESO**
+
+Waldeco chega a Bolsonaro-Zumbi. Ele pode:
+
+**A)** Reconhecer que Bolsonaro e um preso condenado e nao usar a imagem. Sair sem a foto. Popularidade +10 (com indecisos), -15 (com bolsonaristas).
+**B)** Tirar a foto e publicar: "Visitei nosso MITO!" Popularidade +25 (com bolsonaristas), -20 (com o resto). A foto vaza e gera escandalo na Fase 5.
+**C)** Tirar a foto mas NAO publicar. Guardar como moeda de troca. Efeito neutro agora, mas na Fase 5 pode usar pra chantagem OU pra prova de alianca.
+
+**Boss: BOLSONARO-ZUMBI (mesmo boss, dialogo diferente)**
+
+> BOLSONARO-ZUMBI: "Waldeco? Voce? Eu nem sei quem voce e!"
+> WALDECO: "Deputado Waldeco, PL de Taguatinga. O senhor me deu apoio em 2022."
+> BOLSONARO-ZUMBI: "Eu dei apoio pra 300 deputados em 2022. Nenhum me visitou."
+> WALDECO: "EU to aqui."
+> BOLSONARO-ZUMBI: "...Voce quer foto, ne?"
+> WALDECO: "...Sim."
+
+---
+
+## FASE 3 -- POLITICO: "MISSAO DIPLOMATICA"
+### Locacao: Aeroporto + conexao Miami
+### Evento real: Eduardo nos EUA (perspectiva do politico que quer negociar)
+
+**Narrativa de abertura:**
+
+> WALDECO: "Eduardo Bolsonaro ta nos EUA fazendo lobby contra o proprio pais. Fomentando sancoes. Se dizendo pre-candidato a presidente. O cara que FUGIU quer governar de longe. Tipo home office da presidencia. E eu preciso falar com ele. Porque ele tem algo que eu quero: a lista de contatos internacionais. E eu tenho algo que ele quer: noticias do pai."
+
+**Mecanica da fase:** Similar a Fase 3 do Cidadao (aeroporto), mas Waldeco nao quer IMPEDIR Eduardo -- quer NEGOCIAR com ele. A fase e uma travessia pelo aeroporto infestado ate a area VIP onde Eduardo esta embarcando.
+
+**DILEMA MORAL #3: O ACORDO COM EDUARDO**
+
+Eduardo oferece apoio internacional em troca de Waldeco prometer anistia aos condenados do 8 de janeiro se virar presidente.
+
+**A)** Recusar: "Anistia pra golpista nao." Popularidade +10 com moderados, -15 com bolsonaristas. Eduardo se torna inimigo.
+**B)** Aceitar: "Feito. Anistia em troca de apoio." Popularidade +15 com bolsonaristas, -25 quando vazam as gravacoes (e SEMPRE vaza).
+**C)** Aceitar verbalmente, sem assinar nada. "Promessa de politico nao tem valor legal." Efeito neutro. Eduardo desconfia mas coopera parcialmente.
+
+**Boss: EDUARDO-ZUMBI (mesmo boss, perspectiva diferente)**
+
+Eduardo nao confia em Waldeco e ataca mesmo depois da negociacao.
+
+> EDUARDO: "Voce acha que eu confio em politico brasileiro? Eu sou politico brasileiro! Eu sei como funciona!"
+> WALDECO: "Entao voce sabe que eu to fazendo a mesma coisa que voce fez: usando o caos pra me promover."
+> EDUARDO: "...Touche."
+
+---
+
+## FASE 4 -- POLITICO: "A CONVENCAO"
+### Locacao: Sao Paulo -- Convencao Partidaria
+### Evento real: Flavio vs Tarcisio -- disputa pela direita
+
+**Narrativa de abertura:**
+
+> WALDECO: "A direita brasileira em 2026 e um episodio de MasterChef onde todo mundo quer ser o chef e ninguem quer lavar a louca. Flavio quer ser presidente porque e filho do mito. Tarcisio quer ser presidente porque tem 'gestao'. Zema quer ser presidente porque e de Minas (e mineiro sempre quer). Caiado quer ser presidente porque... bom, ninguem sabe por que. E EU quero ser presidente porque SIM. A convencao do partido e onde a gente decide. Ou tenta."
+
+**Mecanica especial: CONVENCAO COMO ARENA POLITICA**
+
+A fase alterna entre COMBATE (contra zumbis que invadem a convencao) e NEGOCIACAO (entre os pre-candidatos vivos). O jogador precisa derrotar zumbis E convencer delegados a apoiar sua candidatura. Cada delegado convencido custa Popularidade mas garante "votos internos".
+
+**Inimigos novos:**
+
+| Inimigo | Descricao | Comportamento |
 |---|---|---|
-| **Zumbi Civil** | Muitos | Moradores infectados. Roupas de gente comum. Mais rapidos que os burocatas do centro (o povo trabalha, tem pique). Gemem: "Cade o asfalto?!", "Voce PROMETEU!", "QUE HORAS ABRE O POSTÃO?!" |
-| **Cabo Eleitoral Zumbi** | Medio | Ex-cabos eleitorais do PROPRIO Waldeco. Ainda distribuem santinhos. O santinho agora e um projetil. Geme: "Vota no 44... vota no 44..." |
-| **Cachorro Vira-Lata** | Poucos (nao-zumbi!) | Cachorros normais que correm pelo cenario. NAO PODEM SER ATACADOS. Se o jogador tenta, perde popularidade e aparece: "ATACOU UM CACHORRO?! -30 POPULARIDADE". Homenagem ao Brasil real onde cachorro e sagrado. |
+| **Delegado-Zumbi** | Representante de diretorio estadual infectado. Cracha da convencao, camiseta do partido. | Vota CONTRA o jogador se nao for derrotado. Geme o nome de outro candidato. |
+| **Marqueteiro-Zumbi** | Notebook, powerpoint de campanha, pesquisa de opiniao. | Altera a percepcao dos NPCs: -5 Popularidade por cada um vivo. "Os numeros dizem que voce PERDE!" |
 
-**DILEMA MORAL #1: O COMITE DE CAMPANHA**
+**Boss: DUELO TRIPLO -- FLAVIO / TARCISIO / ZEMA**
 
-No meio da fase, Waldeco chega ao seu comite de campanha. Dentro, 15 moradores se refugiaram. O comite tem comida e agua pra 5 pessoas por 2 dias.
+Tres pre-candidatos-zumbi disputam a convencao. O jogador pode se aliar temporariamente a um pra derrotar os outros (sistema de alianca/traicao).
 
-**Opcao A (Certa):** Distribui tudo igualmente entre os 15 moradores. Waldeco fica sem recursos. Perde comida/cura pra proxima fase. Mas Popularidade +15.
+**Flavio-Zumbi:** Ataque forte (sobrenome pesa), telefone do pai tocando sempre, sorriso de marketing.
+**Tarcisio-Zumbi:** Rapido, tecnico, graficos como arma, esquiva calculada.
+**Zema-Zumbi:** Equilibrado, sotaque mineiro, geme: "Sera?... Sera?..." (referencia a trend real).
 
-**Opcao B (Errada):** Guarda os recursos pra si. Manda os moradores embora. "Eu preciso estar forte pra SALVAR TODO MUNDO depois." Ganha muitos recursos. Popularidade -20.
+> FLAVIO: "A candidatura e MINHA! O pai escolheu EU!"
+> TARCISIO: "Os dados indicam que EU tenho melhor performance em segundo turno."
+> ZEMA: "Sera?..."
+> WALDECO: "Tres caras brigando pela mesma cadeira enquanto o pais pega fogo. Normal."
 
-**Opcao C (Politica):** Faz um discurso emocionante prometendo que vai buscar mais suprimentos. Distribui METADE. Guarda metade escondido. Popularidade +5. Recursos medios. Mas na Fase 3, alguem descobre e confronta o jogador.
+**DILEMA MORAL #4: A ALIANCA**
 
-**Boss: VEREADOR ZUMBI DE CEILANDIA**
+Apos o combate, o vencedor entre os tres (quem o jogador derrotou por ultimo) propoe alianca:
 
-O vereador local que Waldeco DERROTOU na ultima eleicao. Agora zumbificado, voltou pra se vingar. E patético. Gordo, baixo, faixa de "VEREADOR" rasgada, gritando:
-
-> VEREADOR: "WALDECO! VOCE ROUBOU MEUS VOTOS! AGORA EU VOU ROUBAR SUA CARNE!"
-> WALDECO: "Marildo? Voce? Eu ganhei de voce por 12.000 votos!"
-> VEREADOR: "RECONTAGEM!"
-
-E um boss facil -- introducao a mecanica de boss. Morre em poucos hits. Mas ao morrer, dropa um item importante: **o celular dele**, que tem a lista de contatos de todos os politicos de Brasilia. Funciona como mapa/guia pro resto do jogo.
-
-**Transicao para a Fase 2:**
-
-> WALDECO: "OK. Ceilandia ta evacuada -- pelo menos os vivos. Agora preciso ir pro Plano Piloto. Se eu quero ser presidente, preciso chegar no centro do poder. E o centro do poder e o Congresso Nacional."
-> CABO ELEITORAL VIVO (NPC): "Chefe, o Congresso ta CHEIO de zumbi."
-> WALDECO: "Eu sei. E o congresso. Quando nao estava?"
+**A)** Aceitar: Ganha vice forte. Perde autonomia. O vice tenta MANDAR no jogador nas fases seguintes.
+**B)** Recusar todos: Corre sozinho. Mais dificil, mas sem compromissos.
+**C)** Aceitar e planejar trair: Ganha o vice agora, planeja troca-lo na Fase 6. Se funcionar: vantagem total. Se descoberto: -40 Popularidade.
 
 ---
 
-## FASE 2: "PALANQUE DE GUERRA"
-### Locacao: Eixo Monumental + Esplanada dos Ministerios (aproximacao pelo lado sul)
+## FASE 5 -- POLITICO: "FOLLOW THE MONEY"
+### Locacao: Banco Master + STF + Escritorios do Lago Sul
+### Evento real: Escandalo do Banco Master
 
 **Narrativa de abertura:**
 
-> WALDECO: "A Esplanada dos Ministerios. O tapete vermelho do poder brasileiro. Cada bloco daqueles tem um ministerio. Cada ministerio tem um ministro. Cada ministro tem 200 assessores. E agora cada assessor e um zumbi. Faz a conta: sao milhares de zumbis de terno. Ou, como eu chamo: um dia normal no Congresso."
+> WALDECO: "O Banco Master. Vinte e dois BILHOES. Vorcaro pagou todo mundo. Temer: 10 milhoes. Meirelles: 18 milhoes. Mantega: 14 milhoes. Mulher do Xandao: 80 milhoes. E sabe o que eu recebi? NADA. Zero. Nem foi mal assessorado -- foi IGNORADO. E isso, na politica brasileira, e pior que ser corrupto. E ser irrelevante."
 
-**Cenario:**
-- Eixo Monumental visto de baixo (perspectiva side-scroller): a estrada larga com canteiro central, palmeiras secas, postes de luz quebrados
-- Ministerios dos dois lados como canyons de concreto
-- Placas satiricas nos ministerios: "MIN. DA MODERACAO ESTRATEGICA", "MIN. DO JEITINHO INSTITUCIONAL", "MIN. DA PROMESSA EM ANDAMENTO"
-- Carros oficiais (Corollas pretos) abandonados, alguns capotados, outros com motorista-zumbi ainda tentando dirigir
+> "Mas agora o Vorcaro ta preso. O dinheiro ta bloqueado. E todo mundo que recebeu ta tentando esconder. E ESSA e a minha chance. Porque quem tem a informacao, tem o poder."
 
-**Inimigos:**
+**Mecanica da fase:** Fase de INVESTIGACAO. Waldeco precisa encontrar documentos comprometedores no Banco Master e no escritorio da familia Moraes. Cada documento encontrado e uma "munição politica" que pode ser usada na Fase 6 de diferentes formas.
 
-| Inimigo | Quantidade | Comportamento |
-|---|---|---|
-| **Assessor Parlamentar** | Muitos | Arremessam press releases e projetos de lei como projeteis. "A NOTA OFICIAL ESCLARECE QUE..." |
-| **Senador Blindado** | Medio | Escudo de Imunidade. O jogador politico pode tentar NEGOCIAR em vez de lutar (mecânica exclusiva do Modo Politico): gasta Popularidade pra convencer o Senador a mudar de lado temporariamente. |
-| **Motorista Oficial** | Poucos | Dirige Corolla preto contra o jogador. Rapido em linha reta, nao faz curva. "PASSAGEIRO VIP! PASSAGEIRO VIP!" |
-| **Jornalista-Zumbi** | Especial | NAO ataca fisicamente. Segue o jogador e FILMA tudo. Se o jogador faz algo moralmente questionavel na frente do Jornalista-Zumbi, perde o DOBRO de popularidade. Se faz algo heroico, ganha o dobro. Pode ser destruido (mas perda de popularidade: "POLITICO ATACA IMPRENSA!"). |
+| Documento | Uso na Fase 6 |
+|---|---|
+| Recibos de Temer/Meirelles | Eliminar concorrentes centristas |
+| Contratos do escritorio V.B.M. | Pressionar o STF a nao interferir na eleicao |
+| Lista de jatinhos de Vorcaro | Destruir reputacao de QUALQUER politico da lista |
+| Gravacoes do cofre | Prova nuclear -- pode usar contra todos OU destruir |
 
-**MECÂNICA EXCLUSIVA DO MODO POLITICO: NEGOCIACAO**
+**DILEMA MORAL #5: O DOSSIÊ**
 
-Em vez de matar certos inimigos, o jogador pode gastar Popularidade pra RECRUTAR zumbis como aliados temporarios. Cada tipo tem um "preco":
+Waldeco tem em maos documentos que comprovam a corrupcao de TODOS os lados -- direita, esquerda, judiciario, mercado financeiro.
 
-| Zumbi | Custo de Recrutamento | Beneficio |
-|---|---|---|
-| Vereador | 5 Popularidade | Segue o jogador e ataca outros zumbis por 30s |
-| Assessor | 10 Popularidade | Para de arremessar no jogador e arremessa nos OUTROS zumbis |
-| Senador | 20 Popularidade | Tank aliado que absorve dano |
+**A)** Entregar tudo pra imprensa. Transparencia total. Popularidade +30 (o povo ama), mas TODOS os politicos viram inimigos. Fase 6 sozinho contra todos.
+**B)** Usar seletivamente contra concorrentes. Popularidade +15. Guarda os documentos sobre aliados. Funciona no curto prazo.
+**C)** Guardar TUDO como seguro. "Informacao e a moeda mais valiosa." Nenhum efeito agora. Na Fase 6, pode chantagear QUALQUER boss pra evitar luta.
 
-Isso cria a SATIRA central do Modo Politico: voce literalmente COMPRA aliados com popularidade. E a mecanica de coligacao.
+**Boss: VORCARO-ZUMBI + XANDAO (Duo Boss)**
 
-**DILEMA MORAL #2: O ONIBUS DE EVACUACAO**
+Os dois aparecem juntos -- o banqueiro e o juiz. No jogo, a relacao entre eles e representada por fios verdes que CONECTAM os dois. Quando um toma dano, o outro tambem (mas menos). Pra derrotar os dois, o jogador precisa CORTAR os fios (os contratos, os pagamentos) e depois derrotar cada um separadamente.
 
-No meio da Esplanada, um onibus de evacuacao esta cercado por zumbis. Dentro, 30 civis. O jogador pode:
-
-**Opcao A (Certa):** Lutar pra salvar o onibus. Batalha dificil. Ao salvar, os civis agradecem. Popularidade +25. Mas o jogador perde HP e recursos.
-
-**Opcao B (Errada):** Usar o onibus como DISTRAÇÃO. Buzinar pra atrair os zumbis pro onibus enquanto foge pelo outro lado. Os civis morrem. Popularidade -30 (se alguem descobrir depois -- o que acontece na Fase 4).
-
-**Opcao C (Politica):** Salvar o onibus MAS fazer um discurso na frente das cameras (Jornalista-Zumbi) antes, durante e depois do resgate. Transforma o resgate em comicio. Popularidade +20 (mais que a opcao A pela publicidade), mas demora mais e o jogador arrisca levar mais dano. NPCs dentro do onibus percebem que ele ta usando eles pra campanha e ficam desconfiados.
-
-**Boss: O CONCORRENTE -- CANDIDATO RIVAL**
-
-O primeiro concorrente politico aparece: **Deputada Marcia Teixeira**, do partido rival PNTB (Partido Nacional dos Trabalhadores do Brasil -- ficticio). Ela tambem esta viva, tambem percebeu a oportunidade, e tambem quer ser presidente.
-
-Ela NAO e zumbi. E uma politica viva e esperta. A luta e diferente de qualquer outra no jogo: e um debate/combate hibrido.
-
-**Visual:** Terninho vermelho, cabelo preso num coque apertado, sorriso idêntico ao de Waldeco (ambos aprenderam na mesma escola de politica), salto alto que ela usa como arma.
-
-**Mecanica do Boss:** A cada 25% de HP que Marcia perde, ela PARA a luta e propoe um debate. O jogador precisa responder a uma pergunta com 3 opcoes (A, B, C -- como os dilemas morais). Cada resposta afeta Popularidade E a dificuldade do resto da luta.
-
-> MARCIA: "Waldeco! Voce aqui! Achei que voce tinha morrido!"
-> WALDECO: "Marcia! Eu achei a mesma coisa de voce. Com otimismo, diga-se de passagem."
-> MARCIA: "Vamos resolver isso civilizadamente. O povo vai decidir."
-> WALDECO: "O povo ta zumbi, Marcia."
-> MARCIA: "Entao decidimos na pancada. Como sempre."
-
-**Pergunta do debate (exemplo):**
-
-> MARCIA: "Waldeco, qual e seu plano para a crise zumbi?"
-
-**A) "Vou criar um ministerio anti-zumbi com orcamento de R$ 50 bilhoes."** -- Popularidade +10. Marcia ri: "Ele nao sabe nem de onde tirar o dinheiro!" Proxima fase mais facil.
-
-**B) "Meu plano e matar todos os zumbis."** -- Popularidade +5. Marcia: "Uau, que genial. Matar os mortos. Voce e um VISIONARIO." Neutro.
-
-**C) "Eu recuso a premissa da pergunta."** -- Popularidade +15 (o povo AMA quando politico desvia). Marcia: "Classico Waldeco. Desvia ate de pergunta de zumbi." Proxima fase mais dificil (Marcia se prepara mais).
-
-Marcia nao morre. Ela foge ao ser derrotada. "Nos VEREMOS de novo, Waldeco. No segundo turno... SE voce chegar la."
+> VORCARO: "Ministro, nosso AMIGO quer atrapalhar os negocios."
+> XANDAO: "Negocios? Eu nao tenho negocios com voce. Isso e SIGILO JUDICIAL."
+> VORCARO: "Ministerio, as oito passagens de jatinho dizem o contrario."
+> XANDAO: "...MONOCRATICAMENTE, eu decreto que este assunto esta encerrado."
+> WALDECO: "Encerrado pra voces. Nao pro povo."
 
 ---
 
-## FASE 3: "ALIANCAS PODRES"
-### Locacao: Setor Hoteleiro + Lago Paranoa (margem norte)
+## FASE 6 -- POLITICO: "O DIA DA ELEICAO"
+### Locacao: TSE + Brasilia inteira
+### Evento real: Eleicao de 2026
 
 **Narrativa de abertura:**
 
-> WALDECO: "Na politica, voce nao ganha sozinho. Voce precisa de aliados. De coligacoes. De gente que te odeie menos do que odeia o outro. A diferenca entre um aliado e um inimigo em Brasilia e uma ligacao telefonica. Hoje voce janta junto, amanha voce assina uma CPI contra a pessoa. E isso ANTES do apocalipse zumbi."
+> WALDECO: "Dia da eleicao. Eu comecei essa jornada como um deputadozinho de Taguatinga com jingle de material de construcao. Atravessei um apocalipse zumbi. Negociei com o filho fugitivo. Visitei o pai preso. Briguei com pre-candidatos. Investiguei o maior escandalo financeiro da historia. E agora, to aqui. Na fila do TSE. Esperando o povo decidir se eu sou DIGNO. Depois de tudo que eu fiz -- bom e ruim -- a resposta ta na urna."
 
-**Cenario:**
-- Setor Hoteleiro Norte: hoteis de luxo parcialmente destruidos, piscinas verdes de limo, lobbies com lustre no chao
-- Lago Paranoa: margem norte, clube nautico abandonado, barcos virados
-- Tom DIFERENTE: mais noturno, mais sinistro. E aqui que a politica fica SUJA.
+**Mecanica:** A Fase 6 e a convergencia de TODAS as escolhas anteriores.
 
-**Mecanica central da Fase 3: FORMACAO DE CHAPA**
+- Cada Dilema Moral afeta quem aparece como aliado ou inimigo
+- Documentos coletados na Fase 5 determinam opcoes de combate
+- Popularidade acumulada determina o final
 
-Waldeco precisa formar uma chapa presidencial. Precisa de um vice. Tres candidatos a vice estao escondidos no Setor Hoteleiro, cada um oferecendo vantagens e desvantagens:
+**Boss Final: LULA-ZUMBI -- O IMORTAL**
 
-| Candidato a Vice | Vantagem | Desvantagem | Personalidade |
-|---|---|---|---|
-| **Gen. Amorim** (militar reformado) | +30% dano contra zumbis, NPCs soldados viram aliados | Popularidade com civis -15, ele tenta MANDAR no jogador | "Quando EU era do Alto Comando..." |
-| **Padre Maciel** (lider religioso) | +20% popularidade constante, cura em areas de igrejas | Proibe o jogador de usar violencia contra Padres-Zumbi e perde-se um tipo de ataque | "O Senhor nos guia! E eu guio voce." |
-| **Dra. Financeira** (economista) | Itens custam 50% menos, mais drops de recursos | Nenhuma habilidade de combate, precisa ser PROTEGIDA (NPC escolta) | "O custo-beneficio do apocalipse..." |
+O ultimo obstaculo. O presidente que nao morre. O politico que voltou do cancer, da prisao, da derrota, da irrelevancia, de uma cirurgia na cabeca depois de cair no banheiro -- e AINDA esta concorrendo.
 
-**O jogador so pode escolher UM.** Os outros dois ficam ressentidos e se tornam concorrentes nas fases seguintes.
+**Contexto real:** Lula, 80 anos em outubro de 2026. Terceiro mandato em andamento. Cirurgia de emergencia na cabeca em dezembro 2024 (trepanacao apos queda no banheiro). Pesquisas de abril 2026: lider em primeiro turno, empate tecnico em segundo turno.
 
-**Inimigos:**
-
-| Inimigo | Quantidade | Comportamento |
-|---|---|---|
-| **Hospede-Zumbi de Luxo** | Muitos | Ex-hospedes de hoteis 5 estrelas. Roupao branco, chinelo de hotel. Mais "elegantes" ao atacar. Geme: "O room service... esta incluido?" |
-| **Garçom-Zumbi** | Medio | Carrega bandeja. Arremessa pratos e copos como projeteis com precisao. "O prato... do dia... e cerebro..." |
-| **Seguranca de Hotel** | Poucos | Grandalhoes, ternos pretos, fones de ouvido. Resistentes. "Senhor, sua reserva... expirou..." |
-| **Banqueiro-Zumbi** | Raro (recorrente) | O Vorcaro voltou. Desta vez, corrompe o VICE do jogador se estiver por perto (o vice fica paralisado contando dinheiro por 5s). |
-
-**DILEMA MORAL #3: A GRAVACAO**
-
-Um NPC (jornalista sobrevivente) mostra ao jogador uma gravacao comprometedora da Deputada Marcia: ela abandonou civis pra se salvar na Fase 2. Se o jogador usar a gravacao:
-
-**Opcao A (Certa):** Destroi a gravacao. "Nao vou ganhar na base da difamacao." Popularidade +5 agora, mas no final do jogo, Marcia reconhece a nobreza e o apoia (afeta o final).
-
-**Opcao B (Errada):** Vaza a gravacao. Marcia perde toda popularidade. Ela e eliminada da corrida. Popularidade do jogador +20. Mas um NPC ve o jogador fazendo isso e começa a desconfiar. Na Fase 5, essa informacao vaza.
-
-**Opcao C (Politica):** Guarda a gravacao como "seguro". Nao usa agora. Pode usar na Fase 5 como ultima cartada se estiver perdendo. Nenhum efeito imediato.
-
-**Boss: OS DOIS VICES REJEITADOS (Duo Boss)**
-
-Os dois candidatos a vice que o jogador NAO escolheu se aliam contra ele. Cada um luta com seu estilo:
-
-- **Gen. Amorim** (se rejeitado): Invoca soldados-zumbi, atira, grita ordens. "Se o senhor nao me quer, EU VOU TOMAR O COMANDO!"
-- **Padre Maciel** (se rejeitado): Reza, cria areas de "benção" que curam TODOS os zumbis na zona. "O Senhor castiga os ingratos!"
-- **Dra. Financeira** (se rejeitada): Contrata mercenarios com dinheiro infinito. "O mercado nao perdoa!"
-
-A combinacao de dois bosses simultaneos (com habilidades complementares) cria a luta mais desafiadora ate agora.
-
-> WALDECO (pos-luta): "Na politica, os aliados que voce rejeita se tornam seus piores inimigos. Pelo menos dessa vez eu ja esperava."
-
----
-
-## FASE 4: "DEBATE DOS MORTOS"
-### Locacao: Torre de TV de Brasilia + Setor Comercial Sul
-
-**Narrativa de abertura:**
-
-> WALDECO: "Chegou a hora do debate. Em qualquer eleicao normal, o debate e na TV. Todo mundo assiste, todo mundo xinga, ninguem muda de voto. Numa eleicao COM APOCALIPSE ZUMBI, o debate e na unica torre de transmissao que ainda funciona. E os candidatos nao discutem propostas -- discutem quem matou mais zumbis. O formato mudou. O conteudo nao."
-
-**Cenario:**
-- Torre de TV: icone de Brasilia, 230m de altura. O debate acontece na plataforma de observacao.
-- Setor Comercial Sul abaixo: labirinto urbano que o jogador precisa atravessar pra chegar na Torre.
-- A Torre esta transmitindo -- toda Brasilia (e o Brasil) assiste. As escolhas do jogador sao PUBLICAS.
-
-**MECÂNICA ESPECIAL: O DEBATE TELEVISIONADO**
-
-Na plataforma da Torre de TV, tres candidatos se encontram:
-1. **O jogador (Waldeco/Thati/Aristobulo)**
-2. **Deputada Marcia Teixeira** (rival da Fase 2)
-3. **Senador Ovidio Montenegro** (novo rival -- velho lobo da politica, 68 anos, tres processos no STF, sorriso de crocodilo)
-
-O "debate" e uma sequencia de 5 rodadas. Cada rodada:
-1. Pergunta aparece na tela (feita por um Jornalista-Zumbi moderador)
-2. Cada candidato responde (NPCs respondem automaticamente)
-3. O jogador escolhe entre 3 respostas (A, B, C)
-4. DURANTE a resposta, zumbis atacam a plataforma. O jogador precisa responder E lutar ao mesmo tempo.
-5. Popularidade sobe ou desce baseado na resposta E no desempenho em combate.
-
-**Perguntas do debate:**
-
-> **Rodada 1:** "Candidato, qual seu plano para os zumbis que infestam a periferia?"
-
-A) "Vou enviar forcas especiais para proteger Ceilandia, Samambaia e Taguatinga." (+10 Popular, zumbis de periferia ficam mais fracos nas fases seguintes)
-B) "A periferia precisa se defender sozinha enquanto resolvemos o centro." (-10 Popular, recursos extras pro jogador)
-C) "Eu defendo uma abordagem INTEGRADA entre centro e periferia." (+5 Popular, nenhum efeito pratico -- resposta vazia)
-
-> **Rodada 2:** "O Congresso Nacional foi apontado como epicentro da epidemia. O senhor defende fechar o Congresso?"
-
-A) "Sim. Fechar e investigar." (+15 Popular com povo, -20 Popular com politicos NPC -- afeta aliados)
-B) "Nao. O Congresso e a base da democracia." (-5 Popular com povo, +15 com politicos NPC)
-C) "Vamos criar uma comissao pra avaliar." (0 em tudo -- a resposta mais realista e a mais inutil)
-
-> **Rodada 3:** "Existem rumores de que o senhor [insere acao moralmente questionavel que o jogador fez numa fase anterior]. O que tem a dizer?"
-
-Se o jogador fez algo ruim: precisa se explicar. Opcoes de desculpa, negacao ou ataque ao jornalista.
-Se o jogador foi etico: a pergunta muda pra uma sobre a economia. Recompensa por ter sido honesto.
-
-> **Rodada 4:** "Se eleito, o senhor pretende manter a Emenda 666?"
-
-A) "Vou revogar imediatamente." (+10 Popular)
-B) "Vou manter as partes que funcionam." (Sim, isso e uma resposta REAL que um politico daria sobre uma emenda que ZUMBIFICA PESSOAS. +5 Popular porque o povo ta acostumado)
-C) "Eu desconhecia os efeitos colaterais da Emenda." (-5 Popular, ninguem acredita)
-
-> **Rodada 5:** "Ultima pergunta: por que VOCE e nao os outros dois?"
-
-Resposta livre entre 3 opcoes que definem a IDENTIDADE do jogador: heroi do povo, lider forte, ou pragmatico.
-
-**Boss: SENADOR OVIDIO MONTENEGRO**
-
-Apos o debate, Ovidio revela que trouxe uma "surpresa": ele convenceu os Senadores Blindados do Congresso a se reorganizarem sob a lideranca dele. Um EXERCITO de Senadores cercam a Torre.
-
-Ovidio nao luta diretamente. Ele fica no alto da Torre, protegido por 8 Senadores Blindados que precisam ser derrotados enquanto Ovidio faz discursos que bufam os Senadores.
-
-> OVIDIO: "Meu jovem, voce acha que politica se faz com VOTOS? Politica se faz com ARTICULACAO. E eu articulei a sua derrota."
-> WALDECO: "Voce chamou oito Senadores pra me matar e ta me chamando de jovem. Eu tenho 52 anos."
-> OVIDIO: "No Senado, 52 e estagiario."
-
-**CONSEQUENCIA DAS ESCOLHAS:** Se o jogador usou a gravacao de Marcia na Fase 3 (Opcao B), Ovidio TAMBEM tem uma gravacao do jogador e usa durante o debate. Popularidade -25. Karma.
-
----
-
-## FASE 5: "VOTO OU BALA"
-### Locacao: Palacio do Planalto + Praca dos Tres Poderes
-
-**Narrativa de abertura:**
-
-> WALDECO: "O Palacio do Planalto. A Casa Branca brasileira. De onde o presidente governa o pais. Ou finge que governa. Ou tenta governar e o Congresso nao deixa. Ou o STF derruba. Ou o mercado derruba o STF que derrubou o presidente que tentou governar. Enfim, e de la que sai o carimbo."
-
-**Cenario:**
-- Palacio do Planalto: rampa iconica, Salao Nobre, gabinete presidencial
-- Praca dos Tres Poderes ao redor: campo de batalha final entre faccoes politicas
-- A situacao DEGRINGOLOU: alem dos zumbis, FACCOES POLITICAS VIVAS lutam entre si pela Praca. E guerra civil + apocalipse zumbi. Tres faccoes: seguidores de Waldeco, de Marcia e de Ovidio.
-
-**Mecanica da fase:** O jogador precisa conquistar o Planalto enquanto tres faccoes lutam pelo mesmo objetivo. NPCs das faccoes rivais atacam o jogador E os zumbis E uns aos outros. Caos total.
-
-**DILEMA MORAL #4: O BOTAO NUCLEAR**
-
-Dentro do Planalto, Ze (do Modo Cidadao) ou Waldeco (Modo Politico) encontra um painel de controle. E o Sistema de Purificação Atmosferica de Brasilia (SPAB -- inventado pelo Dr. Necrose). Tem dois botoes:
-
-**BOTAO VERMELHO:** Ativa uma onda de choque que DESTROI todos os zumbis de Brasilia instantaneamente. Mas tambem mata 30% dos sobreviventes civis. E rapido, e eficiente, e monstruoso.
-
-**BOTAO AZUL:** Ativa um processo lento de neutralizacao que leva 72 horas. Nenhum civil morre. Mas durante 72 horas, os zumbis ficam MAIS agressivos. O jogador precisa sobreviver defendendo o Planalto por uma fase de defesa de ondas.
-
-**Opcao C (exclusiva do Politico):** Nao aperta nenhum botao. Usa o painel como palanque pra fazer um discurso prometendo "resolver depois". Nenhum efeito pratico. Popularidade +10 com os indecisos.
-
-Cada opcao afeta DRASTICAMENTE o final.
-
-**Boss: BOLSOLULA -- A FUSAO FINAL**
-
-No subsolo do Planalto, o jogador encontra algo que nao deveria existir: **BolsoLula**, a fusao dos dois maiores rivais da politica brasileira. A Emenda 666 uniu o que ninguem achou possivel.
-
-**Visual (o design mais GROTESCO do jogo inteiro, estilo Andre Guedes no MAXIMO):**
-
-Uma criatura de duas cabecas. A esquerda: Lula, nariz vermelho de bêbado, cicatrizes cranianas pulsando, olhos semicerrados, baba de cachaça. A direita: Bolsonaro, queixo descomunal, olhos arregalados, sorriso forçado, faixa presidencial rasgada. O corpo e UNICO -- metade terno vermelho PT, metade camisa da selecao verde-amarela. Quatro bracos: Lula segura garrafa de Velho Barreiro e microfone, Bolsonaro segura arma brochavel e celular (fazendo live da fusao). Estatura: 3x o tamanho normal. A criatura se contradiz CONSTANTEMENTE -- uma cabeca grita uma coisa, a outra grita o oposto.
+**Visual (estilo Andre Guedes, GROTESCO):**
+- Corpo atarracado, baixo, forte apesar da idade
+- Cicatrizes cranianas da trepanacao BRILHANDO VERDE (a cirurgia abriu caminho pra infeccao)
+- Barba branca descuidada, olhos semicerrados (parece sempre sabendo de algo que ninguem sabe)
+- Terno VERMELHO PT escuro, quase sangue
+- Um dedo a menos na mao esquerda (referencia real: perdeu o dedo mindinho num acidente em 1964)
+- 9 dedos que se esticam como tentaculos quando ataca
+- Ao redor: cachaca, cigarro apagado, e fantasmas de TODOS os mandatos anteriores
+- Um certificado emoldurado: "FICHA LIMPA" com o "LIMPA" riscado e reescrito varias vezes
 
 **Ataques:**
-
-1. **"Cachaçada Armada!"** -- Lula arremessa garrafa de Velho Barreiro, Bolsonaro atira (com 30% de chance de brochar). Ataque combinado devastador.
-2. **"Discurso Bifronte!"** -- As duas cabecas discursam ao mesmo tempo em direcoes opostas. DUAS ondas sonicas que se cruzam. Area segura: bem no meio (entre os dois discursos que se anulam).
-3. **"Motociata do PT!"** -- BolsoLula monta numa moto com bandeira de TODOS os partidos e atropela tudo em S.
-4. **"Golpe Companheiro!"** -- Tenta dar um golpe mas se auto-sabota. Uma cabeca quer golpe de estado, a outra quer greve geral. Ficam paralisados se contradizendo por 5s (janela de ataque).
-5. **"Faz o L Talkei!"** -- A versao mais bizarra de um ultimate: Lula faz o L, Bolsonaro faz arminha. A fusao dos dois gestos cria uma explosao de populismo puro que atinge TUDO na tela. Inevitavel. Jogador so pode minimizar o dano.
+1. **"Nunca Antes Neste Pais!"** -- Discurso sonico devastador. Onda de energia vermelha que atravessa toda a tela. Area segura: abaixar.
+2. **"O Povo Sabe!"** -- Invoca zumbis-eleitores que avancam em massa. Cada um gritando um programa social diferente: "BOLSA! FOME ZERO! MINHA CASA!"
+3. **"Quarto Mandato!"** -- Mecanica de ressurreicao. Ao ser derrotado, Lula levanta com 25% HP. "Eu ja volto. EU SEMPRE VOLTO." So morre de verdade na QUARTA vez (referencia aos 4 mandatos).
+4. **"Trepanacao!"** -- A cicatriz craniana se abre e dispara um raio verde. Ataque telegrafado (demora 2s pra carregar) mas devastador.
+5. **"O Dedo Que Falta!"** -- Ataque especial dos 9 dedos-tentaculo. Area massiva. O dedo que falta e o ponto fraco: o lado da mao sem o mindinho tem um gap onde o jogador pode passar sem dano.
 
 **Dialogos:**
 
-> LULA (cabeca esquerda): "Companheiro... zumbi! A gente... vai... governar junto!"
-> BOLSONARO (cabeca direita): "TALKEI?! Eu nao concordo com NADA que esse lado ta falando!"
-> LULA: "Eu tambem nao concordo comigo!"
-> BOLSONARO: "Pelo menos nisso a gente concorda!"
-> OS DOIS JUNTOS: "REELEICAO ETERNA!"
+> LULA-ZUMBI (ao aparecer): "Companheiro... deputado... voce quer ser presidente? Voce sabe quanto CUSTA ser presidente? Eu paguei com um dedo. Com um cancer. Com uma prisao. Com um buraco na cabeca. Voce pagou o que?"
+> WALDECO: "Eu paguei R$ 847 de gasolina atravessando Brasilia no apocalipse."
+> LULA-ZUMBI: "...Ha. Pelo menos voce tem senso de humor."
 
-> WALDECO (ao ver BolsoLula): "...Eu desisto de entender a politica brasileira."
-
----
-
-## FASE 6: "A ELEICAO"
-### Locacao: Palacio da Alvorada (patio + interior) -- a MESMA locacao final do Modo Cidadao, mas experiência totalmente diferente
-
-**Narrativa de abertura:**
-
-> WALDECO: "Chegou o dia. O dia da eleicao. Sim, no meio do apocalipse zumbi, alguem decidiu que a eleicao vai acontecer. Porque no Brasil, nem o fim do mundo cancela eleicao. Teve eleicao na ditadura. Teve eleicao na pandemia. Vai ter eleicao no apocalipse. Os brasileiros vao votar nem que seja o ultimo ato antes de virar zumbi."
-
-**A eleicao acontece.** O TSE (Tribunal Superior Eleitoral) montou uma unica sessao de votacao no Alvorada. Sobreviventes de toda Brasilia se reunem pra votar.
-
-O resultado depende da POPULARIDADE ACUMULADA ao longo de todo o jogo.
-
-**Boss Final: DR. NECROSE (versao do Modo Politico)**
-
-Dr. Necrose reconhece no jogador algo diferente dos outros: ambicao. E tenta CORROMPER o jogador em vez de lutar.
-
-> DR. NECROSE: "Voce quer ser presidente? Eu posso fazer isso acontecer. A Emenda 666 funciona pros dois lados, deputado. Ela mantem os mortos no poder... mas tambem pode manter VOCE no poder. Para sempre. Sem eleicao. Sem reeleicao. ETERNO."
-
-**A ULTIMA ESCOLHA:**
-
-**Opcao A (Rejeitar):** "Nao. Vou ganhar no voto." Luta contra Dr. Necrose (luta similar ao Modo Cidadao, mas o jogador e mais forte). Final depende da Popularidade.
-
-**Opcao B (Aceitar):** "Feito." O jogador se alia ao Dr. Necrose. Desbloqueia o FINAL SOMBRIO.
+> LULA-ZUMBI (apos primeira ressurreicao): "Eu... ja... morri... tantas vezes... que a morte... me deu... desistiu de mim..."
+> LULA-ZUMBI (apos segunda ressurreicao): "Terceira vez... igual... terceiro mandato... ninguem acreditava... e aqui estamos..."
+> LULA-ZUMBI (apos terceira ressurreicao): "Quarto... mandato... quarta... vida... eu nao... paro..."
+> LULA-ZUMBI (derrota definitiva): "Companheiro... cuida... desse pais... ele e... mais duro... de matar... do que eu..." *cai de joelhos, os fantasmas dos mandatos se dissipam, a cachaca derrama no chao*
 
 ---
 
 ## OS 5 FINAIS DO MODO POLITICO
 
-### Final 1: "O PRESIDENTE DO POVO" (Popularidade 80%+ e todas as escolhas eticas)
+### Final 1: "O PRESIDENTE DO POVO" (Popularidade 80%+ e maioria das escolhas eticas)
+Waldeco ganha. Governa com transparencia. Luta contra a infeccao honestamente.
 
-Waldeco ganha a eleicao com maioria esmagadora. Revoga a Emenda 666. Derrota o Dr. Necrose. E empossado como presidente num Congresso vazio e rachado, mas LIMPO.
+> WALDECO (posse): "Eu comecei essa campanha querendo ser presidente. No caminho, quase virei monstro. Mas se um cara de Ceilandia com terno de R$ 200 e jingle de material de construcao consegue atravessar o apocalipse sem perder a alma... talvez esse pais tenha jeito."
 
-> WALDECO (discurso de posse): "Eu comecei essa campanha querendo ser presidente. No caminho, quase virei monstro. Mas se um cara de Ceilandia com terno de R$ 200 e jingle de material de construcao consegue atravessar o apocalipse sem perder a alma... talvez esse pais tenha jeito. TALVEZ."
+*Texto: "Mandato de 4 anos. Exatamente 4. Nao tentou reeleicao. Primeiro presidente a fazer isso desde... nunca."*
 
-*Texto final: "O mandato de Waldeco durou 4 anos. Exatamente 4. Ele cumpriu a promessa e nao tentou reeleicao. Foi o primeiro presidente a fazer isso desde... bom, desde nunca."*
+### Final 2: "O PRESIDENTE PRAGMATICO" (Popularidade 50-79%, escolhas mistas)
+Waldeco ganha apertado. Faz concessoes. Usa os documentos do Banco Master pra manter aliados na linha.
 
-### Final 2: "O PRESIDENTE PRAGMATICO" (Popularidade 50-79% e escolhas mistas)
+*Texto: "Mandato marcado por polemicas. Heroi pra uns, oportunista pra outros. O jingle virou patrimonio cultural."*
 
-Waldeco ganha por margem apertada. Revoga a Emenda 666 mas mantem "algumas clausulas uteis" (as que beneficiam ele). Derrota o Dr. Necrose, mas nao destrói completamente o laboratorio.
+### Final 3: "O PRESIDENTE DA CRISE" (Popularidade 30-49%, escolhas ruins)
+Waldeco ganha no segundo turno por 0,3%. Metade nao confia nele. A nevoa verde nao foi embora completamente.
 
-> WALDECO: "Eu fiz o que precisava ser feito. Nem sempre foi bonito. Mas funcionou."
+*Texto: "3 CPIs, 2 pedidos de impeachment, 1 tentativa de golpe (frustrada porque os militares estavam de ferias). A nevoa voltou em 2028."*
 
-*Texto final: "O mandato de Waldeco foi marcado por polemicas. Alguns o chamavam de heroi. Outros, de oportunista. A maioria nao lembrava o nome dele. O jingle, porem, ninguem esqueceu: 'Wal-DE-co, Wal-DE-co, vota no 44, e o melhor que tem oco!' -- declarada Patrimonio Imaterial do Brasil em 2028."*
+### Final 4: "O DERROTADO" (Popularidade abaixo de 30%)
+Waldeco perde. Volta pra Ceilandia. Abre a quinta loja de material de construcao.
 
-### Final 3: "O PRESIDENTE QUESTIONAVEL" (Popularidade 30-49% e varias escolhas ruins)
+> WALDECO (atendendo cliente): "Cem metros de arame farpado? Pode ser. Pra cercar contra zumbis? Cartao ou pix?"
 
-Waldeco ganha no segundo turno por 0,3% de diferenca. Metade do pais nao confia nele. A Emenda 666 e "suspensa" (nao revogada). Dr. Necrose escapa.
+### Final 5: "O DITADOR" (Se usar TODOS os documentos do Banco Master pra chantagear + Popularidade acima de 60%)
+Waldeco vence e usa a informacao pra se tornar intocavel. Vira o que sempre combateu.
 
-> WALDECO (olhando pela janela do Planalto): "Eu ganhei. Ne? Isso e ganhar? Porque nao parece."
+> WALDECO (olhos levemente verdes, sentado no Planalto): "Sabe o que ninguem te conta sobre o poder? Que ele muda voce. Devagar. Igual zumbi."
 
-*Texto final: "O mandato de Waldeco foi alvo de 3 CPIs, 2 pedidos de impeachment e 1 tentativa de golpe (frustrada porque os militares estavam de ferias). A nevoa verde voltou brevemente em 2028. Ninguem se surpreendeu."*
-
-### Final 4: "O CANDIDATO DERROTADO" (Popularidade abaixo de 30%)
-
-Waldeco PERDE a eleicao. Marcia ou Ovidio (quem tiver mais popularidade entre os NPCs) ganha. Waldeco volta pra Ceilandia. Abre uma quinta loja de material de construcao.
-
-> WALDECO (de volta na loja, atendendo cliente): "Cem metros de arame farpado? Pode ser. Pra cercar o quintal? Ah, pra cercar o CONDOMINIO contra zumbis? Sim, senhor, a gente tem. Cartao ou pix?"
-
-*Texto final: "Waldeco nunca mais disputou eleicao. Mas toda vez que passava um carro de som com jingle de campanha, ele sorria. E depois chorava. E depois sorria de novo. Que, no fundo, e a experiencia de todo politico brasileiro."*
-
-### Final 5: "O DITADOR ETERNO" (Aceitou a proposta do Dr. Necrose)
-
-O final mais sombrio. Waldeco se alia ao Dr. Necrose. A Emenda 666 e modificada para aplicar-se ESPECIFICAMENTE a ele. Waldeco se torna presidente ETERNO. A nevoa verde nao vai embora -- ela se torna parte de Brasilia. Parte do sistema. Parte do Waldeco.
-
-> WALDECO (sentado no Planalto, olhos levemente esverdeados): "Sabe o que ninguem te conta sobre o poder? Que ele muda voce. Nao de repente. Devagar. Igual zumbi. Voce vai perdendo pedaco por pedaco -- primeiro a vergonha, depois a empatia, depois a consciencia. E quando percebe, voce ta igual a eles. A unica diferenca e que voce ta sentado numa cadeira melhor."
-
-*A camera se afasta. Brasilia vista de cima. Os contornos do Plano Piloto. Mas a nevoa verde continua. E na janela do Planalto, dois olhos verdes brilham.*
-
-*Texto final: "O mandato de Waldeco nunca acabou. A Emenda 666 garantiu isso. Brasilia se adaptou. Os zumbis se tornaram funcionarios publicos. Ou os funcionarios publicos se tornaram zumbis. Ninguem conseguiu perceber a diferença."*
-
-*"FIM?"*
-
-*"Nao. Na politica brasileira, nunca e fim."*
-
-**FIM DO MODO POLITICO**
+*Texto: "O mandato de Waldeco nunca acabou. Os documentos do Banco Master garantiram isso. A nevoa verde ficou. Brasilia se adaptou."*
 
 ---
 
@@ -1020,31 +849,28 @@ O final mais sombrio. Waldeco se alia ao Dr. Necrose. A Emenda 666 e modificada 
 
 ## Cruzamentos Narrativos
 
-Os dois modos acontecem SIMULTANEAMENTE. Em alguns momentos, os protagonistas se cruzam sem saber:
+Os dois modos cobrem os MESMOS eventos -- perspectivas opostas:
 
-| Momento | Modo Cidadao | Modo Politico |
+| Fase | Modo Cidadao (Ze) | Modo Politico (Waldeco) |
 |---|---|---|
-| Fase 2 | Ze ve um helicoptero com banner de campanha sobrevoando a Catedral | Waldeco aluga helicoptero pra fazer campanha durante evacuacao |
-| Fase 3 | Ze encontra santinhos do "Waldeco 44" espalhados pelo Congresso | Waldeco manda cabos eleitorais distribuirem santinhos NO Congresso zumbificado |
-| Fase 5 | Ze ve o debate na Torre de TV de longe, ouvindo distorcido | Waldeco esta na Torre debatendo |
-| Fase 6 | Ze derrota Dr. Necrose destruindo o sistema | Waldeco confronta Dr. Necrose com a proposta de alianca |
+| Fase 1 | Ze foge da invasao do 8/Jan | Waldeco faz campanha no acampamento |
+| Fase 2 | Ze investiga a casa do Bolsonaro preso | Waldeco quer foto com o preso |
+| Fase 3 | Ze tenta impedir Eduardo de fugir | Waldeco quer negociar com Eduardo |
+| Fase 4 | Ze esta preso entre Flavio e Tarcisio | Waldeco disputa a convencao com eles |
+| Fase 5 | Ze descobre a verdade do Banco Master | Waldeco quer USAR a verdade do Banco Master |
+| Fase 6 | Ze decide se VOTA | Waldeco descobre se foi VOTADO |
 
 ## Easter Egg de Crossover
 
-Se o jogador completar os dois modos, desbloqueia uma cena pos-creditos:
+Completar os dois modos desbloqueia:
 
-Ze e Waldeco se encontram numa barraca de cachorro-quente do Tião, nos escombros da Esplanada.
+Ze e Waldeco se encontram na barraca do Tiao do Cachorro-Quente, Esplanada em ruinas.
 
-> WALDECO: "Voce e o cara que atravessou o Congresso de vassoura?"
-> ZE: "Voce e o deputado que fez comicio no apocalipse?"
-> WALDECO: "..."
-> ZE: "..."
-> WALDECO: "Prensado ou simples?"
+> WALDECO: "Voce e o cara que atravessou Brasilia de vassoura e chinelo?"
+> ZE: "Voce e o deputado que fez campanha no apocalipse?"
+> WALDECO: "...Prensado ou simples?"
 > ZE: "Prensado com tudo."
-> WALDECO: "Dois prensados, Tiao."
-> TIAO: "Sao R$ 18 cada. Ou R$ 30 os dois. Promoção do apocalipse."
-
-*Creditos finais reais.*
+> TIAO: "R$ 18 cada. Ou R$ 30 os dois. Promocao do apocalipse."
 
 ---
 
@@ -1056,94 +882,111 @@ Ze e Waldeco se encontram numa barraca de cachorro-quente do Tião, nos escombro
 
 ## Principios do Humor (Andre Guedes)
 
-### 1. A satira ataca o SISTEMA, nao a PESSOA
-Nenhum politico especifico e "o vilao". TODOS sao ridicularizados igualmente. Esquerda, direita, centro, cima, baixo -- todo mundo apanha. O inimigo e a ESTRUTURA que produz corruptos, nao um individuo.
+### 1. A satira ataca TODOS os lados -- IGUALMENTE
+Este e o principio INEGOCIAVEL. Bolsonaro vira zumbi patetico tentando serrar tornozeleira. Lula vira zumbi imortal com cicatriz brilhante. Moraes vira guardiao corrompido pelo dinheiro do banqueiro. Eduardo vira fugitivo covarde. Flavio vira fantoche do pai. Tarcisio vira robo de dados. Vorcaro vira corruptor universal. TODOS apanham. Nenhum lado e poupado. O inimigo e o SISTEMA.
 
-### 2. O humor vem do RECONHECIMENTO
-Cada piada funciona porque o jogador RECONHECE a referencia. "Fui eleito democraticamente!" e engracado porque o brasileiro VIU esse discurso mil vezes. O humor nao e inventado -- e a realidade levada ao extremo logico.
+### 2. O humor vem dos FATOS REAIS
+Cada piada funciona porque o jogador RECONHECE o evento. Bolsonaro serrando a tornozeleira e engraçado porque ACONTECEU. Eduardo fugindo pros EUA e engraçado porque ACONTECEU. 80 milhoes pro escritorio da mulher do Moraes e engraçado porque ACONTECEU. O jogo nao inventa absurdo -- amplifica o absurdo real.
 
-### 3. Horror e comedia sao a mesma coisa
-O zumbi que geme "reeleicao..." e ASSUSTADOR e ENGRACADO ao mesmo tempo. A graca esta no horror. O horror esta na graca. Se o jogador ri E sente um frio na espinha, o tom esta certo.
+### 3. A fronteira entre humor e horror e a REALIDADE
+O zumbi que geme "mito... mito..." e assustador e engraçado ao mesmo tempo. A cicatriz da trepanacao do Lula brilhando verde e grotesca e triste ao mesmo tempo. O dinheiro contaminado do Banco Master e nojento e familiar ao mesmo tempo. Se o jogador ri E sente um frio na espinha, o tom esta certo.
 
 ### 4. Violencia e CARTUNESCA, nunca realista
-Desmembramento comico, sangue verde de zumbi (nao vermelho humano), mortes exageradas e impossiveis. Estamos no territorio de Looney Tunes com politica brasileira. Ninguem deve sentir NOJO -- deve sentir catarse.
+Sangue verde de zumbi (nao vermelho humano). Mortes exageradas e impossiveis. Desmembramento comico. Territorio de Looney Tunes com CPF brasileiro. Ninguem deve sentir nojo -- deve sentir catarse.
 
-### 5. O jogador e o BRASILEIRO MEDIO
-Ze nao e heroi. Waldeco nao e genio. Sao brasileiros normais em situacoes absurdas. A identificacao vem da normalidade deles num mundo insano.
-
-### 6. Auto-referencia e metalinguagem
-O jogo sabe que e um jogo. Os personagens comentam sobre o absurdo. Ze olha pra camera de vez em quando. Waldeco questiona a logica das mecanicas. Isso e parte do estilo Andre Guedes -- a satira nao e so sobre politica, e sobre a NARRATIVA da politica.
+### 5. VERIFICABILIDADE
+Cada evento referenciado pode ser verificado com uma busca no Google. Datas, nomes, valores, circunstancias. O jogador que nao acompanha politica APRENDE jogando. O que acompanha RECONHECE e ri.
 
 ## Limites do Humor
 
 ### NAO PODE:
-- Piadas com tragédias reais recentes (mortes confirmadas, desastres naturais)
-- Conteudo sexual explicito
-- Racismo, homofobia ou preconceito como "piada" (sátira de quem e preconceituoso e OK -- o preconceito em si NAO e piada)
-- Apologia a violencia real contra pessoas reais
+- Piadas com tragedias pessoais reais (saude, familia nao-publica)
+- Conteudo sexual
+- Racismo, homofobia, preconceito como piada
+- Apologia a violencia REAL contra pessoas reais
 - Dizer ao jogador em quem votar
+- Fake news: TUDO referenciado deve ser VERIFICAVEL
 
 ### PODE:
-- Satirizar QUALQUER politico, de qualquer partido, sem restricao
+- Satirizar qualquer politico, de qualquer partido
 - Humor negro sobre morte (e um jogo de ZUMBI)
 - Violencia cartunesca extrema
-- Palavrao leve (porra, merda, desgraça)
-- Referencia a escandâlos reais (Banco Master, CPMI, emendas, etc.)
-- Metalinguagem ("Isso nem parece real" / "Em qualquer outro pais isso seria ficção")
+- Palavrao leve
+- Referenciar escandalos reais com fontes verificaveis
+- Metalinguagem
 
 ---
 
 ---
 
 # ============================================================
-# REFERENCIAS CULTURAIS A INCORPORAR (2026)
+# REFERENCIAS CULTURAIS 2023-2026
 # ============================================================
 
-## Politica
+## Eventos Politicos Reais como Fases
 
-| Referência | Como aparece no jogo |
-|---|---|
-| Trend "Sera?" (Zema/Flavio) | Zumbis cantarolam. Placa em neon. Game over frase. |
-| Lula 4o mandato + cirurgias | Boss com cicatrizes cranianas e "Quarto Mandato" como mecanica de ressurreicao |
-| Bolsonaro preso (27 anos) | Boss na cela, fazendo live escondida, indicando filho por carta |
-| Flavio "Moderado" | Santinhos com "MODERADO" em aspas sarcasticas |
-| Banco Master / Vorcaro | Banqueiro-Zumbi como inimigo elite, celular com contatos |
-| CPMI do INSS sem relatorio | Placa: "RESULTADO: EM BREVE (desde 2025)" |
-| R$ 61 bi em emendas | Moedas caindo de Senadores mortos |
-| Xandao vs Trump (sancoes) | Interacao entre bosses |
-| Eduardo nos EUA | Fuga, banana, mala de viagem |
-| Daciolo pre-candidato (Mobiliza!) | NPC aliado que aparece gritando "GLORIA A DEUS!" e seus poderes FUNCIONAM |
-| Ciro irrelevante | NPC que ninguem escuta |
+| Evento Real | Data | Como aparece no jogo |
+|---|---|---|
+| Invasao 8 de Janeiro | Jan 2023 | Prologo + Fase 1: origem da infeccao |
+| Acampamento no QG | Nov 2022 - Jan 2023 | Cenario do prologo, barracas, bandeiras |
+| Prisao domiciliar Bolsonaro | Ago 2025 | Fase 2: condominio como dungeon |
+| Ferro de solda na tornozeleira | Nov 2025 | Cutscene + ataque do boss |
+| Vigilia no condominio | Nov 2025 | Cenario da Fase 2, apoiadores acampados |
+| Eduardo autoexilado nos EUA | Fev 2025+ | Fase 3: aeroporto, fuga |
+| Cassacao de Eduardo por faltas | 2025 | Referencia em dialogo |
+| Notificacao por edital (Moraes) | Set 2025 | Piada em dialogo |
+| Flavio pre-candidato presidente | Dez 2025 | Fase 4: convencao |
+| Tarcisio apoio/ambiguidade | 2025-2026 | Fase 4: duelo politico |
+| Zema "Sera?" | 2025-2026 | Boss da Fase 4, bordao |
+| Banco Master fraude | 2018-2025 | Fase 5: investigacao |
+| Vorcaro preso (Op. Compliance Zero) | Nov 2025 | Boss da Fase 5 |
+| R$ 80mi escritorio V.B.M. | 2024-2025 | Revelacao narrativa central |
+| Jatinho de Vorcaro + Moraes | Mai-Out 2025 | Evento especial (8 fantasmas) |
+| Lula trepanacao/queda banheiro | Dez 2024 | Visual do boss final, ataques |
+| Lula 3o mandato | 2023-2026 | Mecanica de ressurreicao (4 vidas) |
+| Eleicoes 2026 | Out 2026 | Fase 6: climax |
 
 ## Memes e Cultura Pop
 
-| Referência | Como aparece |
+| Referencia | Como aparece |
 |---|---|
-| "Empurra mole / Faz o L devagarinho" | Easter egg sonoro no boss do Lula |
+| "Sera?" (Zema) | Bordao do boss Zema-Zumbi, placa neon, game over |
+| "Talkei?" (Bolsonaro) | Frase do Bolsonaro-Zumbi ao ser derrotado |
+| "Mito! Mito!" | Grito dos Vigilante-Zumbi na Fase 2 |
+| Motociata | Ataque do Bolsonaro-Zumbi |
+| Ferro de solda na tornozeleira | Cutscene + ataque |
+| "Fui mal assessorado" (Vorcaro) | Frase do boss Vorcaro |
+| "Monocraticamente" (Moraes) | Ataque principal do Xandao |
+| "Nunca antes neste pais" (Lula) | Ataque sonico do Lula-Zumbi |
+| Faz o L | Gesto do Lula-Zumbi |
+| Arminha com a mao | Gesto do Bolsonaro-Zumbi |
+| Banana (Eduardo na ONU) | Item decorativo do Eduardo-Zumbi |
+| Make Brazil Great Again | Bone do Eduardo-Zumbi |
+| "A gestao" (Tarcisio) | Frase do Tarcisio-Zumbi |
+| "O pai escolheu" (Flavio) | Frase do Flavio-Zumbi |
 | "CPF cancelado" | Frase de game over |
-| "Pintou um clima" | Area de constrangimento cosmico |
-| Bolsolula | Fusao de bosses -- design mais grotesco do jogo |
-| "Fonte: Arial 12" | Assessor-Zumbi ao morrer |
-| "A sessao esta encerrada" | Frase final do boss do Congresso |
-| "Sabe com quem esta falando?" | Senador Blindado |
-| Jingle de campanha distorcido | Trilha sonora do Candidato Eterno |
+| Ring light da Thati | Visual da personagem jogavel |
+| Jingle de campanha distorcido | Trilha sonora ambiente |
 
-## Brasilia Real
+## Brasilia Real como Mapa
 
-| Local real | Versao no jogo |
-|---|---|
-| Esplanada dos Ministerios | Arena principal, corredores entre ministerios |
-| Congresso Nacional | Epicentro da infeccao, boss stage da Fase 3 |
-| Catedral Metropolitana | Base de sobreviventes, Fase 2 |
-| Palacio do Planalto | Sede do poder, Fase 5 do Politico |
-| Palacio da Alvorada | Boss final, Fase 6 |
-| Torre de TV | Debate/boss do Candidato Eterno, Fase 5 |
-| Lago Paranoa | Travessia, transicao de fases |
-| Setor Comercial Sul | Fase urbana, selva de pedra |
-| Ceilandia | Fase 1 do Politico -- a periferia real |
-| Rodoviaria do Plano Piloto | Falsa evacuacao, virada de plot |
-| Praca dos Tres Poderes | Arena das 3 faccoes, Fase 4/5 |
-| Dois Candangos (escultura) | Se movem como guardas |
+| Local Real | Fase | Funcao no jogo |
+|---|---|---|
+| Setor Militar Urbano (QG) | Prologo | Acampamento / origem |
+| Esplanada dos Ministerios | Fase 1 | Arena principal, corredor entre ministerios |
+| Praca dos Tres Poderes | Fase 1 | Epicentro da invasao / infeccao |
+| Congresso Nacional | Fase 1 | Cenario de fundo pulsando verde |
+| Condominio Solar de Brasilia (Lago Sul) | Fase 2 | Dungeon da prisao domiciliar |
+| Aeroporto Int. de Brasilia | Fase 3 | Fase de perseguicao/fuga |
+| Palacio dos Bandeirantes (SP) | Fase 4 | Duelo politico |
+| Avenida Paulista | Fase 4 | Campo de batalha dividido |
+| Sede Banco Master (SP) | Fase 5 | Investigacao/cofre |
+| STF | Fase 5/6 | Arena do Xandao |
+| Escritorios Lago Sul | Fase 5 | Sub-dungeon documental |
+| TSE | Fase 6 | Arena final, eleicao |
+| Palacio da Alvorada | Fase 6 | Boss final |
+| Torre de TV | Varias | Referencia visual no skyline |
+| Catedral | Base de sobreviventes | Hub entre fases |
 
 ---
 
@@ -1153,31 +996,32 @@ O jogo sabe que e um jogo. Os personagens comentam sobre o absurdo. Ze olha pra 
 # EASTER EGGS E SEGREDOS
 # ============================================================
 
-## Referências ao Trabalho de André Guedes
+## Referencias ao Trabalho de Andre Guedes
 
-| Easter Egg | Onde encontrar | Referência |
+| Easter Egg | Onde | Referencia |
 |---|---|---|
-| Grafite na parede do Congresso: "ANDRE ESTEVE AQUI" com desenho de zumbi | Fase 3, corredor do Anexo IV | Assinatura do criador |
-| Canal de TV nos hotéis da Fase 3 mostrando "Limbo dos Cancelados" | TV ligada no lobby do hotel | Canal do YouTube |
-| NPC que diz "Assista Zumbis de Brasilia no YouTube, e melhor que isso aqui" | Fase 2, Catedral | Auto-referência |
-| Poster rasgado na Rodoviaria: "LIMBO DOS CANCELADOS -- TEMPORADA 8" | Fase 5, parede da Rodoviaria | Serie do canal |
-| Quando Daciolo aparece, audio sussurrado: "Os poderes dele FUNCIONAM de verdade" | Qualquer fase com Daciolo | Regra canônica do universo Andre Guedes |
-| Sala secreta no Congresso com uma mesa de desenho e tablet: "O ESTUDIO DO CRIADOR" | Fase 3, parede falsa no subsolo | Andre Guedes literalmente dentro do jogo |
-| Se o jogador esperar 66,6 segundos na tela titulo sem fazer nada | Tela titulo | Um zumbi risca a tela com giz e desenha o logo do canal Andre Guedes |
-| Pilha de DVDs no Alvorada: "TODOS os episodios de Zumbis de Brasilia, inclusive os censurados" | Fase 6, escritorio do presidente | Acervo do canal |
-| Carimbo no Dr. Necrose diz "APROVADO POR A.G." | Fase 6, boss final | Iniciais de Andre Guedes |
-| Completar o jogo sem morrer desbloqueia skin "O Cartunista" -- personagem com tablet e stylus como arma | Pos-game | Andre Guedes jogável |
+| Grafite no Congresso: "ANDRE ESTEVE AQUI" com desenho de zumbi | Fase 1, parede do plenario | Assinatura do criador |
+| TV no condominio do Bolsonaro passando "Limbo dos Cancelados" | Fase 2, sala de TV da mansao | Canal do YouTube |
+| NPC na Catedral: "Assista Zumbis de Brasilia no YouTube, e melhor que isso aqui" | Hub, Catedral | Auto-referencia |
+| Poster no aeroporto: "LIMBO DOS CANCELADOS -- TEMPORADA 8" | Fase 3, saguao | Serie do canal |
+| Sala secreta no STF com mesa de desenho e tablet digital | Fase 5/6, parede falsa | "O Estudio do Criador" |
+| Esperar 66,6 segundos na tela titulo | Menu | Zumbi desenha logo do canal |
+| Carimbo "APROVADO POR A.G." em documentos do Banco Master | Fase 5, cofre | Iniciais de Andre Guedes |
+| Completar sem morrer desbloqueia skin "O Cartunista" | Pos-game | Andre Guedes jogavel |
+| Audio de Daciolo gritando "GLORIA A DEUS!" em area aleatoria | Qualquer fase | Os poderes dele FUNCIONAM no universo Andre Guedes |
+| Pilha de DVDs no Alvorada: "Todos os episodios, inclusive os censurados" | Fase 6 | Acervo do canal |
 
-## Segredos Desbloqueáveis
+## Segredos Desbloqueaveis
 
 | Segredo | Como desbloquear | Recompensa |
 |---|---|---|
-| **Modo "Bolsolula"** | Completar ambos os modos | Boss rush contra todos os bosses fusionados |
-| **Cena pos-creditos** | Completar ambos os modos | Ze e Waldeco no cachorro-quente |
-| **Galeria de Arte** | Encontrar 30 santinhos escondidos | Concept art no estilo Andre Guedes com comentarios do diretor |
-| **Modo "1988"** | Encontrar a Constituicao escondida na Fase 3 | Filtro visual estilo retro, todos os personagens em preto e branco |
-| **O Jingle Secreto** | Derrotar o Candidato Eterno sem levar dano | O jingle do Waldeco toca como trilha sonora permanente (tortura voluntaria) |
-| **Skin "Dona Marta"** | Completar Modo Cidadao sem nenhum NPC morrer | Dona Marta jogavel com vassoura de platina |
+| **Modo "Todos os Presidentes"** | Completar ambos os modos | Boss rush contra todos os bosses em sequencia |
+| **Cena pos-creditos** | Completar ambos | Ze e Waldeco no cachorro-quente |
+| **Galeria de Arte** | Encontrar 30 santinhos escondidos | Concept art + comentarios do Andre Guedes |
+| **Modo "2018"** | Encontrar o primeiro episodio de Zumbis de Brasilia escondido | Filtro visual retro, personagens da serie original |
+| **O Jingle Secreto** | Derrotar Lula-Zumbi na primeira tentativa (sem morrer) | Jingle do Waldeco como trilha permanente |
+| **Skin "Dona Marta"** | Completar Cidadao sem nenhum NPC morrer | Dona Marta jogavel com vassoura de platina |
+| **Modo "Ferro de Solda"** | Encontrar o ferro de solda na Fase 2 e carrega-lo ate a Fase 6 | Arma especial + final secreto |
 
 ---
 
@@ -1187,21 +1031,21 @@ O jogo sabe que e um jogo. Os personagens comentam sobre o absurdo. Ze olha pra 
 # NOTA FINAL DO DIRETOR CRIATIVO
 # ============================================================
 
-> *"Quando comecei a desenhar politicos como zumbis la em 2018, era piada de nicho. Um cara com tablet e opiniao demais fazendo animacao no quarto. Agora, em 2026, a realidade ficou TÃO absurda que meu conteudo parece MODERADO em comparacao. O cara que lidera as pesquisas tem 80 anos e costura na cabeca. O segundo colocado e filho de um preso. O STF derruba rede social. O Congresso aprova 61 bilhoes em emendas. Um banqueiro tinha o celular de todo mundo e 22 bilhoes bloqueados."*
+> *"A versao 1 era um jogo de zumbi COM politica. Esta versao e a POLITICA BRASILEIRA que virou jogo de zumbi. A diferenca e fundamental."*
 
-> *"Esse jogo nao e escapismo. E a UNICA forma racional de processar o que ta acontecendo. Se voce nao ta rindo, voce nao ta prestando atencao."*
+> *"Cada fase desse jogo e algo que ACONTECEU. A invasao do 8 de janeiro. A prisao. A fuga. A briga pela candidatura. O escandalo do banco. A eleicao. Eu nao inventei NADA. Eu so desenhei."*
 
-> *"Dois modos de jogo. O Cidadao e a experiencia de SOFRER o sistema. O Politico e a experiencia de SER o sistema. E quando o jogador termina os dois, talvez -- TALVEZ -- ele entenda que o sistema nao e uma coisa externa. O sistema somos nos. Os zumbis somos nos. E o unico jeito de mudar e acordar."*
+> *"O cara que tentou serrar a tornozeleira com ferro de solda -- eu nao preciso exagerar isso. O filho que fugiu pro exterior e se diz candidato do pais que abandonou -- eu nao preciso exagerar isso. 80 milhoes pro escritorio da mulher do juiz que se diz guardiao da lei -- eu nao preciso exagerar NADA."*
 
-> *"Ou pelo menos, e o unico jeito de fazer 3 minutos de diversao antes do almoco. Que tambem serve."*
+> *"O que eu fiz foi colocar a nevoa verde. E a nevoa verde e so a metafora visual de algo que todo brasileiro ja sabe: a politica brasileira APODRECE o que toca. Transforma gente em zumbi. Transforma idealismo em cinismo. Transforma promessa em mentira. Transforma R$ 80 milhoes em 'honorario advocaticio'."*
 
-> *Andre Guedes*
-> *Abril de 2026*
-> *"Se a realidade e mais absurda que o seu jogo de zumbi, voce ja perdeu."*
+> *"Dois modos de jogo. O Cidadao SOFRE o sistema. O Politico E o sistema. E quando o jogador termina os dois, talvez ele entenda que o sistema nao e uma coisa externa. O sistema somos nos. Os zumbis somos nos."*
+
+> *"Dessa vez nao tem Dr. Necrose. Nao tem Emenda 666. Nao tem vilao inventado. O vilao e REAL. O vilao tem nome, CPF, conta no Banco Master, jatinho particular, e tornozeleira eletronica. E o que assusta de verdade nao e a ficcao. E que tudo isso e VERDADE."*
+
+> *"Bom jogo."*
 
 ---
 
-**Documento:** 24-storytelling-modos-de-jogo.md
-**Autor:** Andre Guedes (Diretor Criativo)
-**Data:** Abril 2026
-**Status:** Completo -- pronto para review de gameplay e producao de assets
+**Documento anterior (versao ficcional): `24-storytelling-modos-de-jogo-v1.md`**
+**Esta versao (cronica real): `24-storytelling-modos-de-jogo.md` -- VERSAO DEFINITIVA**
